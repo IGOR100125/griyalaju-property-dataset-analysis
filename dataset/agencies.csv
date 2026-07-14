@@ -1,0 +1,21 @@
+agency_id,name,city,founded_year,total_agents,type
+AGC01,ERA Indonesia Jakarta Pusat,Jakarta Pusat,2015,19,franchise
+AGC02,Ray White Kemang,Jakarta Selatan,1995,40,franchise
+AGC03,Coldwell Banker Jakarta,Jakarta Selatan,2002,33,franchise
+AGC04,Century 21 Sudirman,Jakarta Pusat,1999,18,franchise
+AGC05,ERA Pondok Indah,Jakarta Selatan,2016,74,franchise
+AGC06,Properti Jakarta Sejahtera,Jakarta Barat,1997,80,independent
+AGC07,Griya Mas Jakarta Timur,Jakarta Timur,2008,9,independent
+AGC08,Sinarmas Land Marketing,Jakarta Selatan,1995,16,developer
+AGC09,Ray White Surabaya,Surabaya,2001,34,franchise
+AGC10,Properti Pahlawan,Surabaya,2011,8,independent
+AGC11,Surabaya Property Group,Surabaya,2012,30,independent
+AGC12,Ciputra Surabaya Marketing,Surabaya,2017,74,developer
+AGC13,ERA Dago Bandung,Bandung,2008,33,franchise
+AGC14,Bandung Hijau Property,Bandung,2009,80,independent
+AGC15,Parahyangan Realti,Bandung,2003,5,independent
+AGC16,Bali Villa Realty,Bali,2019,25,independent
+AGC17,Ray White Bali,Bali,2017,59,franchise
+AGC18,Jogja Asri Property,Yogyakarta,2005,40,independent
+AGC19,Mataram Property Yogya,Yogyakarta,1999,32,independent
+AGC20,Medan Property Center,Medan,2019,48,independent

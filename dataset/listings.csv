@@ -1,0 +1,1001 @@
+listing_id,agent_id,property_type,address,city,province,asking_price_idr,size_sqm,bedrooms,bathrooms,land_area_sqm,listed_date,status,days_on_market
+LST00001,AGT108,Rumah,Perumahan Taman Mas Blok G4 No. 64,Bali,Bali,14109000000,113,6,6,271,2023-02-11,active,312
+LST00002,AGT052,Vila,Jl. Mahoni No. 11,Bekasi,Jawa Barat,9617000000,417,4,4,827,2025-01-27,active,255
+LST00003,AGT054,Rumah,Perumahan Taman Mas Blok A27 No. 74,Semarang,Jawa Tengah,11775000000,306,4,2,306,2024-10-08,sold,39
+LST00004,AGT024,Vila,Perumahan Kelapa Gading Blok C15 No. 7,Jakarta Selatan,DKI Jakarta,17767000000,188,3,3,567,2022-07-24,sold,45
+LST00005,AGT011,Apartemen,Jl. Flamboyan No. 218,Bandung,Jawa Barat,2730000000,114,3,2,,2022-04-04,active,5
+LST00006,AGT036,Rumah,Jl. Gatot Subroto No. 225,Tangerang,Banten,11368000000,391,3,2,482,2022-07-10,active,191
+LST00007,AGT088,Kavling,Jl. Tunjungan No. 70,Yogyakarta,DI Yogyakarta,949000000,138,0,0,138,2024-02-29,active,354
+LST00008,AGT123,Apartemen,Jl. Kenanga No. 242,Jakarta Selatan,DKI Jakarta,3804000000,188,2,1,,2022-11-23,sold,27
+LST00009,AGT107,Kavling,Jl. Pahlawan No. 47,Jakarta Selatan,DKI Jakarta,2619000000,327,0,0,327,2024-02-17,active,399
+LST00010,AGT092,Rumah,Cluster Mawar Blok D2 No. 9,Bandung,Jawa Barat,10516000000,74,3,2,198,2023-06-20,active,336
+LST00011,AGT081,Ruko,Jl. Pisang No. 245,Tangerang,Banten,1002000000,348,0,3,421,2023-11-24,active,266
+LST00012,AGT134,Rumah,Jl. Sudirman No. 124,Tangerang,Banten,11776000000,418,6,1,528,2023-12-10,sold,170
+LST00013,AGT099,Rumah,Perumahan Bintaro Sektor Blok E28 No. 61,Jakarta Selatan,DKI Jakarta,2935000000,489,6,5,502,2024-10-12,active,85
+LST00014,AGT020,Rumah,Jl. Kenanga No. 130,Jakarta Pusat,DKI Jakarta,12811000000,311,4,2,395,2023-04-02,active,282
+LST00015,AGT097,Ruko,Jl. Pahlawan No. 23,Jakarta Barat,DKI Jakarta,7407000000,200,0,1,258,2024-10-17,sold,115
+LST00016,AGT081,Rumah,Jl. Mawar No. 212,Jakarta Selatan,DKI Jakarta,2444000000,314,2,1,417,2022-07-06,sold,155
+LST00017,AGT078,Ruko,Jl. Senopati No. 94,Semarang,Jawa Tengah,9128000000,367,0,1,450,2022-04-22,sold,58
+LST00018,AGT117,Apartemen,Jl. Pahlawan No. 30,Jakarta Selatan,DKI Jakarta,3069000000,165,4,3,,2022-07-19,sold,169
+LST00019,AGT057,Kavling,Perumahan Pakuwon Blok G10 No. 71,Depok,Jawa Barat,208000000,254,0,0,254,2024-12-05,active,192
+LST00020,AGT028,Kavling,Jl. Dago No. 28,Bogor,Jawa Barat,387000000,164,0,0,164,2023-06-05,sold,157
+LST00021,AGT051,Kavling,Jl. Riau No. 56,Tangerang,Banten,968000000,141,0,0,141,2024-07-25,sold,49
+LST00022,AGT087,Rumah,Jl. Tulip No. 198,Bekasi,Jawa Barat,2265000000,447,5,1,609,2024-07-11,sold,118
+LST00023,AGT130,Kavling,Perumahan Graha Famili Blok A18 No. 56,Jakarta Pusat,DKI Jakarta,751000000,335,0,0,335,2024-09-16,active,261
+LST00024,AGT046,Rumah,Perumahan Pakuwon Blok E20 No. 42,Bali,Bali,11834000000,356,3,3,388,2024-10-29,active,197
+LST00025,AGT108,Rumah,Jl. Diponegoro No. 116,Jakarta Selatan,DKI Jakarta,10477000000,414,3,2,515,2022-10-01,active,71
+LST00026,AGT106,Kavling,Jl. Solo No. 77,Jakarta Timur,DKI Jakarta,2667000000,438,0,0,438,2025-01-26,active,161
+LST00027,AGT142,Vila,Perumahan Cibubur Country Blok F5 No. 91,Bekasi,Jawa Barat,8121000000,252,4,5,667,2022-12-31,active,258
+LST00028,AGT139,Apartemen,Jl. Dago No. 173,Jakarta Utara,DKI Jakarta,2990000000,51,3,3,,2024-12-29,off_market,176
+LST00029,AGT109,Rumah,Perumahan Griya Asri Blok F2 No. 26,Yogyakarta,DI Yogyakarta,13743000000,66,6,1,72,2023-07-01,active,385
+LST00030,AGT042,Ruko,Jl. Diponegoro No. 53,Jakarta Barat,DKI Jakarta,5495000000,208,0,1,215,2025-01-13,sold,9
+LST00031,AGT092,Apartemen,Jl. Braga No. 61,Jakarta Selatan,DKI Jakarta,4057000000,48,2,3,,2024-11-12,active,357
+LST00032,AGT074,Ruko,Jl. Kemang Raya No. 248,Depok,Jawa Barat,1569000000,275,0,2,328,2022-04-21,sold,4
+LST00033,AGT065,Kavling,Jl. Pahlawan No. 213,Jakarta Selatan,DKI Jakarta,1031000000,397,0,0,397,2023-04-07,sold,163
+LST00034,AGT095,Apartemen,Jl. Diponegoro No. 115,Surabaya,Jawa Timur,4827000000,176,2,3,,2022-12-30,sold,175
+LST00035,AGT020,Apartemen,Jl. Gatot Subroto No. 143,Tangerang,Banten,1881000000,66,1,2,,2023-06-26,off_market,96
+LST00036,AGT042,Apartemen,Jl. Cendana No. 11,Jakarta Selatan,DKI Jakarta,2439000000,23,3,2,,2022-11-11,sold,83
+LST00037,AGT014,Rumah,Jl. Wolter Monginsidi No. 19,Jakarta Timur,DKI Jakarta,13175000000,380,6,6,457,2023-10-13,active,270
+LST00038,AGT057,Ruko,Jl. Dago No. 140,Jakarta Selatan,DKI Jakarta,3812000000,346,0,1,446,2025-01-04,sold,104
+LST00039,AGT024,Kavling,Jl. Senopati No. 85,Jakarta Selatan,DKI Jakarta,1631000000,193,0,0,193,2024-01-09,active,151
+LST00040,AGT056,Apartemen,Jl. Pahlawan No. 62,Malang,Jawa Timur,4695000000,143,1,1,,2023-05-15,off_market,50
+LST00041,AGT083,Rumah,Jl. Diponegoro No. 7,Surabaya,Jawa Timur,6748000000,467,2,2,532,2024-11-24,active,395
+LST00042,AGT096,Rumah,Perumahan Pakuwon Blok B11 No. 66,Surabaya,Jawa Timur,8926000000,471,6,4,595,2022-06-18,sold,25
+LST00043,AGT043,Kavling,Perumahan Taman Mas Blok B22 No. 81,Jakarta Barat,DKI Jakarta,2403000000,353,0,0,353,2023-03-13,active,351
+LST00044,AGT109,Ruko,Jl. Pemuda No. 166,Jakarta Selatan,DKI Jakarta,2502000000,185,0,3,274,2022-05-28,active,383
+LST00045,AGT040,Apartemen,Jl. Kenanga No. 46,Jakarta Pusat,DKI Jakarta,544000000,139,3,1,,2023-05-31,active,286
+LST00046,AGT019,Rumah,Perumahan Pakuwon Blok D14 No. 41,Semarang,Jawa Tengah,9920000000,480,3,2,584,2022-02-04,active,200
+LST00047,AGT031,Ruko,Jl. Anggrek No. 180,Bandung,Jawa Barat,9562000000,83,0,3,175,2022-05-29,sold,92
+LST00048,AGT129,Rumah,Jl. Pahlawan No. 98,Jakarta Timur,DKI Jakarta,2238000000,208,4,1,280,2024-03-20,active,339
+LST00049,AGT008,Vila,Jl. Diponegoro No. 246,Jakarta Selatan,DKI Jakarta,16531000000,230,7,6,349,2022-10-23,active,153
+LST00050,AGT096,Rumah,Perumahan Pondok Indah Blok E13 No. 69,Tangerang,Banten,682000000,343,6,2,374,2025-01-26,active,44
+LST00051,AGT079,Apartemen,Jl. Solo No. 37,Surabaya,Jawa Timur,2070000000,110,2,2,,2022-11-26,sold,48
+LST00052,AGT057,Apartemen,Jl. Kenanga No. 218,Tangerang,Banten,2420000000,71,1,1,,2025-01-29,active,237
+LST00053,AGT141,Rumah,Perumahan Pondok Indah Blok D11 No. 46,Jakarta Selatan,DKI Jakarta,1698000000,208,2,2,233,2022-09-20,off_market,150
+LST00054,AGT026,Ruko,Jl. Pahlawan No. 85,Bekasi,Jawa Barat,5471000000,397,0,1,421,2023-09-19,sold,178
+LST00055,AGT150,Rumah,Jl. Mahoni No. 2,Surabaya,Jawa Timur,2996000000,349,6,3,429,2023-10-04,active,127
+LST00056,AGT057,Apartemen,Jl. Senopati No. 225,Yogyakarta,DI Yogyakarta,3922000000,92,3,1,,2024-09-09,sold,119
+LST00057,AGT115,Apartemen,Jl. Dahlia No. 216,Bekasi,Jawa Barat,3288000000,100,4,3,,2023-07-29,sold,36
+LST00058,AGT138,Apartemen,Jl. Solo No. 162,Jakarta Utara,DKI Jakarta,1959000000,89,1,1,,2022-03-05,active,298
+LST00059,AGT149,Rumah,Jl. Basuki Rahmat No. 168,Tangerang,Banten,7137000000,453,6,2,462,2022-11-01,active,188
+LST00060,AGT101,Vila,Jl. Dahlia No. 102,Jakarta Timur,DKI Jakarta,8317000000,451,5,4,738,2024-01-16,sold,129
+LST00061,AGT003,Rumah,Jl. Sakura No. 115,Jakarta Pusat,DKI Jakarta,11357000000,182,6,6,224,2022-11-23,sold,46
+LST00062,AGT145,Rumah,Jl. Wolter Monginsidi No. 11,Yogyakarta,DI Yogyakarta,9770000000,397,3,3,584,2023-03-25,sold,125
+LST00063,AGT060,Vila,Jl. Kaliurang No. 233,Bali,Bali,3059000000,285,5,4,356,2024-01-10,sold,100
+LST00064,AGT121,Rumah,Jl. Kaliurang No. 163,Tangerang,Banten,7948000000,83,2,2,109,2023-07-15,active,380
+LST00065,AGT068,Apartemen,Jl. Asia Afrika No. 151,Tangerang,Banten,4809000000,167,2,2,,2022-06-09,active,265
+LST00066,AGT065,Ruko,Jl. Wolter Monginsidi No. 125,Surabaya,Jawa Timur,6965000000,194,0,3,245,2024-09-14,sold,155
+LST00067,AGT002,Apartemen,Jl. Solo No. 165,Bekasi,Jawa Barat,4461000000,57,4,1,,2023-07-30,active,109
+LST00068,AGT039,Apartemen,Jl. Tulip No. 170,Bandung,Jawa Barat,1881000000,62,3,3,,2023-04-17,active,213
+LST00069,AGT085,Kavling,Jl. Basuki Rahmat No. 54,Bekasi,Jawa Barat,664000000,326,0,0,326,2022-11-27,sold,166
+LST00070,AGT106,Rumah,Jl. Sakura No. 162,Surabaya,Jawa Timur,867000000,184,2,1,330,2024-11-15,sold,11
+LST00071,AGT147,Apartemen,Jl. Kaliurang No. 246,Yogyakarta,DI Yogyakarta,1553000000,36,2,2,,2024-04-10,sold,154
+LST00072,AGT145,Rumah,Jl. Basuki Rahmat No. 223,Jakarta Selatan,DKI Jakarta,10946000000,69,4,1,124,2024-09-13,sold,44
+LST00073,AGT057,Rumah,Jl. Jati No. 160,Surabaya,Jawa Timur,14104000000,270,6,2,419,2024-11-12,sold,68
+LST00074,AGT043,Rumah,Jl. Pisang No. 97,Surabaya,Jawa Timur,12365000000,411,4,4,563,2024-02-29,off_market,97
+LST00075,AGT028,Kavling,Jl. Solo No. 176,Jakarta Timur,DKI Jakarta,267000000,183,0,0,183,2024-05-09,active,77
+LST00076,AGT025,Rumah,Jl. Solo No. 193,Jakarta Selatan,DKI Jakarta,3406000000,303,6,5,312,2022-08-29,sold,24
+LST00077,AGT124,Rumah,Jl. Pemuda No. 134,Bandung,Jawa Barat,11303000000,126,6,5,126,2024-05-11,active,190
+LST00078,AGT012,Apartemen,Jl. Braga No. 90,Bekasi,Jawa Barat,4690000000,131,2,2,,2022-07-20,active,218
+LST00079,AGT035,Apartemen,Jl. Dago No. 66,Jakarta Selatan,DKI Jakarta,2435000000,144,2,1,,2023-01-23,active,3
+LST00080,AGT002,Ruko,Jl. Kelapa No. 177,Yogyakarta,DI Yogyakarta,9361000000,140,0,3,140,2023-10-09,sold,105
+LST00081,AGT093,Rumah,Perumahan Citra Garden Blok D19 No. 47,Bandung,Jawa Barat,2246000000,139,5,5,203,2023-07-19,off_market,233
+LST00082,AGT053,Kavling,Jl. Basuki Rahmat No. 46,Yogyakarta,DI Yogyakarta,1892000000,362,0,0,362,2024-01-29,sold,144
+LST00083,AGT143,Rumah,Jl. Sakura No. 219,Jakarta Selatan,DKI Jakarta,8425000000,189,4,3,387,2022-09-01,sold,59
+LST00084,AGT115,Rumah,Jl. Senopati No. 206,Jakarta Timur,DKI Jakarta,13330000000,418,3,1,472,2022-04-17,active,83
+LST00085,AGT100,Ruko,Jl. Pemuda No. 23,Jakarta Selatan,DKI Jakarta,886000000,126,0,1,186,2022-05-12,sold,68
+LST00086,AGT057,Ruko,Jl. Riau No. 158,Jakarta Timur,DKI Jakarta,6875000000,120,0,3,124,2024-12-03,active,147
+LST00087,AGT015,Rumah,Jl. Pinang No. 218,Jakarta Selatan,DKI Jakarta,13174000000,479,3,3,605,2024-11-27,sold,74
+LST00088,AGT050,Ruko,Jl. Mahoni No. 173,Jakarta Barat,DKI Jakarta,1350000000,386,0,3,452,2022-03-15,sold,93
+LST00089,AGT062,Apartemen,Jl. Wolter Monginsidi No. 172,Jakarta Selatan,DKI Jakarta,352000000,62,1,2,,2024-03-20,sold,104
+LST00090,AGT052,Ruko,Jl. Dahlia No. 141,Yogyakarta,DI Yogyakarta,9282000000,87,0,3,177,2023-08-06,active,372
+LST00091,AGT144,Rumah,Jl. Pinang No. 117,Jakarta Selatan,DKI Jakarta,10050000000,238,4,3,295,2024-04-07,active,295
+LST00092,AGT002,Apartemen,Jl. Cempaka No. 129,Bali,Bali,2488000000,66,4,3,,2023-08-26,sold,88
+LST00093,AGT030,Rumah,Jl. Braga No. 145,Jakarta Selatan,DKI Jakarta,13655000000,322,4,3,499,2024-09-17,active,395
+LST00094,AGT063,Apartemen,Jl. Basuki Rahmat No. 30,Bandung,Jawa Barat,3132000000,139,4,3,,2023-06-13,active,35
+LST00095,AGT098,Rumah,Perumahan Cibubur Country Blok D12 No. 67,Bandung,Jawa Barat,10881000000,463,3,3,642,2025-01-02,active,5
+LST00096,AGT068,Rumah,Jl. Senopati No. 20,Jakarta Selatan,DKI Jakarta,4567000000,207,2,2,379,2023-01-01,sold,122
+LST00097,AGT081,Rumah,Jl. Pinang No. 128,Jakarta Timur,DKI Jakarta,6292000000,171,6,3,217,2023-02-13,sold,61
+LST00098,AGT062,Rumah,Jl. Wolter Monginsidi No. 40,Bandung,Jawa Barat,14799000000,195,3,1,246,2022-08-07,sold,31
+LST00099,AGT021,Rumah,Jl. Anggrek No. 218,Jakarta Selatan,DKI Jakarta,11572000000,399,5,5,400,2024-09-14,active,191
+LST00100,AGT081,Apartemen,Jl. Solo No. 72,Bandung,Jawa Barat,4383000000,169,3,2,,2024-03-25,sold,57
+LST00101,AGT148,Vila,Jl. Anggrek No. 129,Malang,Jawa Timur,5202000000,177,7,7,471,2023-12-13,active,202
+LST00102,AGT045,Rumah,Jl. Mawar No. 173,Jakarta Barat,DKI Jakarta,7990000000,121,6,4,201,2023-03-08,sold,98
+LST00103,AGT149,Ruko,Jl. Jati No. 141,Malang,Jawa Timur,2450000000,246,0,2,324,2023-06-23,sold,61
+LST00104,AGT069,Vila,Jl. Kelapa No. 108,Medan,Sumatera Utara,16445000000,463,5,5,607,2024-02-02,sold,94
+LST00105,AGT103,Rumah,Jl. Pisang No. 209,Jakarta Barat,DKI Jakarta,5081000000,290,3,3,323,2022-07-24,sold,70
+LST00106,AGT061,Rumah,Jl. Cendana No. 122,Surabaya,Jawa Timur,9598000000,281,5,2,318,2022-01-20,sold,46
+LST00107,AGT108,Rumah,Cluster Anggrek Blok C9 No. 72,Jakarta Timur,DKI Jakarta,8685000000,128,6,5,312,2022-04-08,sold,102
+LST00108,AGT026,Rumah,Jl. Flamboyan No. 116,Depok,Jawa Barat,11813000000,143,2,1,208,2023-11-17,active,134
+LST00109,AGT093,Apartemen,Jl. Tulip No. 90,Bali,Bali,3301000000,165,3,2,,2023-02-12,active,296
+LST00110,AGT148,Rumah,Perumahan Cibubur Country Blok F17 No. 63,Tangerang,Banten,11147000000,392,6,2,591,2024-07-04,active,41
+LST00111,AGT098,Rumah,Jl. Senopati No. 108,Bandung,Jawa Barat,10554000000,206,5,2,248,2024-04-08,sold,19
+LST00112,AGT021,Rumah,Jl. Gatot Subroto No. 155,Surabaya,Jawa Timur,3154000000,235,3,2,316,2024-03-20,sold,70
+LST00113,AGT114,Vila,Perumahan Griya Asri Blok B24 No. 31,Bandung,Jawa Barat,12900000000,450,7,7,711,2023-05-31,active,381
+LST00114,AGT021,Rumah,Cluster Anggrek Blok E2 No. 4,Bali,Bali,3950000000,145,5,1,169,2024-03-24,active,269
+LST00115,AGT022,Rumah,Jl. Braga No. 80,Jakarta Barat,DKI Jakarta,2202000000,194,6,2,215,2023-04-15,sold,64
+LST00116,AGT073,Rumah,Jl. Melati No. 9,Jakarta Selatan,DKI Jakarta,7760000000,380,3,1,514,2024-01-01,sold,84
+LST00117,AGT122,Apartemen,Jl. Jati No. 152,Bali,Bali,4177000000,160,3,3,,2024-07-24,sold,162
+LST00118,AGT145,Vila,Jl. Pisang No. 207,Tangerang,Banten,15253000000,418,7,7,645,2022-07-03,sold,114
+LST00119,AGT079,Ruko,Jl. Mawar No. 134,Jakarta Selatan,DKI Jakarta,6792000000,291,0,2,310,2022-10-07,active,177
+LST00120,AGT074,Vila,Jl. Basuki Rahmat No. 77,Jakarta Selatan,DKI Jakarta,16374000000,423,3,4,724,2022-01-19,sold,111
+LST00121,AGT075,Rumah,Jl. Pemuda No. 102,Jakarta Barat,DKI Jakarta,10281000000,178,2,2,226,2023-05-27,active,84
+LST00122,AGT100,Rumah,Jl. Sudirman No. 133,Bandung,Jawa Barat,14072000000,253,3,2,273,2023-07-11,sold,73
+LST00123,AGT137,Ruko,Jl. Diponegoro No. 29,Bali,Bali,5204000000,291,0,1,299,2024-07-21,active,317
+LST00124,AGT116,Vila,Perumahan Griya Asri Blok E1 No. 24,Jakarta Barat,DKI Jakarta,9917000000,468,6,5,682,2022-07-29,sold,73
+LST00125,AGT069,Apartemen,Jl. Mawar No. 127,Jakarta Barat,DKI Jakarta,1374000000,134,1,1,,2023-03-21,off_market,205
+LST00126,AGT108,Rumah,Jl. Anggrek No. 85,Yogyakarta,DI Yogyakarta,5604000000,462,5,3,580,2022-06-14,active,385
+LST00127,AGT038,Vila,Jl. Pinang No. 230,Surabaya,Jawa Timur,2836000000,286,6,5,614,2023-05-28,active,196
+LST00128,AGT004,Apartemen,Jl. Anggrek No. 51,Jakarta Timur,DKI Jakarta,1349000000,85,4,2,,2024-08-01,sold,25
+LST00129,AGT134,Ruko,Jl. Kemang Raya No. 41,Malang,Jawa Timur,4215000000,322,0,2,409,2022-03-28,off_market,296
+LST00130,AGT032,Apartemen,Jl. Kenanga No. 222,Jakarta Barat,DKI Jakarta,2425000000,145,3,1,,2023-03-23,active,58
+LST00131,AGT061,Rumah,Jl. Tulip No. 102,Bali,Bali,10869000000,282,4,1,324,2023-05-13,sold,3
+LST00132,AGT011,Kavling,Jl. Cendana No. 96,Yogyakarta,DI Yogyakarta,2580000000,481,0,0,481,2022-07-03,sold,64
+LST00133,AGT041,Ruko,Jl. Kenanga No. 16,Bali,Bali,8990000000,126,0,3,205,2023-12-30,active,331
+LST00134,AGT040,Ruko,Jl. Wolter Monginsidi No. 207,Jakarta Selatan,DKI Jakarta,9587000000,134,0,1,196,2024-06-17,sold,50
+LST00135,AGT006,Rumah,Jl. Malioboro No. 181,Bekasi,Jawa Barat,11792000000,253,4,2,317,2024-06-15,sold,144
+LST00136,AGT076,Apartemen,Jl. Wolter Monginsidi No. 83,Surabaya,Jawa Timur,4796000000,200,4,1,,2024-08-17,sold,71
+LST00137,AGT142,Rumah,Perumahan Kelapa Gading Blok E12 No. 59,Jakarta Selatan,DKI Jakarta,3127000000,95,6,2,210,2022-01-02,active,398
+LST00138,AGT130,Ruko,Jl. Sudirman No. 83,Surabaya,Jawa Timur,7010000000,174,0,1,253,2022-05-10,active,338
+LST00139,AGT138,Apartemen,Jl. Diponegoro No. 83,Bekasi,Jawa Barat,3524000000,70,4,3,,2024-04-19,active,329
+LST00140,AGT083,Vila,Perumahan Bintaro Sektor Blok B28 No. 5,Bali,Bali,4619000000,199,7,8,283,2023-02-18,sold,28
+LST00141,AGT125,Ruko,Jl. Braga No. 169,Surabaya,Jawa Timur,3939000000,130,0,1,203,2024-09-30,active,270
+LST00142,AGT066,Ruko,Jl. Mawar No. 239,Jakarta Pusat,DKI Jakarta,1604000000,267,0,1,344,2023-03-04,active,336
+LST00143,AGT126,Ruko,Jl. Dago No. 211,Jakarta Utara,DKI Jakarta,2110000000,319,0,3,326,2024-01-26,sold,15
+LST00144,AGT069,Apartemen,Jl. Kelapa No. 246,Malang,Jawa Timur,4683000000,32,1,2,,2024-11-29,active,50
+LST00145,AGT026,Apartemen,Jl. Sudirman No. 146,Bandung,Jawa Barat,2242000000,158,4,1,,2023-01-02,sold,143
+LST00146,AGT143,Rumah,Jl. Pemuda No. 227,Jakarta Selatan,DKI Jakarta,7302000000,442,2,2,614,2022-08-02,sold,43
+LST00147,AGT047,Apartemen,Jl. Pahlawan No. 239,Yogyakarta,DI Yogyakarta,4855000000,124,3,3,,2023-12-23,sold,81
+LST00148,AGT141,Ruko,Jl. Kemang Raya No. 156,Bandung,Jawa Barat,6119000000,270,0,2,367,2023-05-08,active,289
+LST00149,AGT140,Rumah,Cluster Anggrek Blok D13 No. 1,Bali,Bali,4004000000,252,6,6,317,2022-03-12,sold,73
+LST00150,AGT005,Rumah,Jl. Kelapa No. 220,Bandung,Jawa Barat,8980000000,129,4,1,205,2023-10-07,sold,6
+LST00151,AGT071,Apartemen,Jl. Wolter Monginsidi No. 40,Tangerang,Banten,4885000000,152,2,1,,2022-10-11,active,136
+LST00152,AGT094,Kavling,Perumahan Kelapa Gading Blok A19 No. 52,Bogor,Jawa Barat,2584000000,207,0,0,207,2023-03-22,active,376
+LST00153,AGT020,Kavling,Jl. Malioboro No. 212,Tangerang,Banten,1529000000,485,0,0,485,2022-07-15,active,305
+LST00154,AGT077,Apartemen,Jl. Senopati No. 90,Surabaya,Jawa Timur,656000000,169,4,1,,2024-06-08,sold,107
+LST00155,AGT031,Vila,Jl. Braga No. 14,Jakarta Selatan,DKI Jakarta,8429000000,484,7,6,858,2023-09-17,active,269
+LST00156,AGT011,Apartemen,Jl. Pisang No. 40,Medan,Sumatera Utara,2965000000,160,2,2,,2022-04-14,active,345
+LST00157,AGT101,Rumah,Cluster Mawar Blok C26 No. 51,Surabaya,Jawa Timur,7800000000,445,6,5,574,2022-10-31,sold,34
+LST00158,AGT087,Apartemen,Jl. Riau No. 129,Surabaya,Jawa Timur,1026000000,143,1,2,,2024-06-08,off_market,96
+LST00159,AGT035,Rumah,Jl. Pinang No. 144,Bandung,Jawa Barat,8379000000,346,3,2,447,2024-12-09,sold,64
+LST00160,AGT063,Apartemen,Jl. Dahlia No. 29,Tangerang,Banten,936000000,90,4,2,,2024-04-27,sold,109
+LST00161,AGT094,Rumah,Jl. Cikini No. 44,Semarang,Jawa Tengah,6206000000,157,4,3,309,2023-12-18,active,316
+LST00162,AGT114,Rumah,Perumahan Cibubur Country Blok B25 No. 94,Malang,Jawa Timur,10710000000,134,5,1,193,2022-06-25,off_market,87
+LST00163,AGT014,Rumah,Perumahan Taman Mas Blok C15 No. 61,Jakarta Selatan,DKI Jakarta,4482000000,377,3,2,380,2022-02-16,sold,85
+LST00164,AGT054,Rumah,Jl. Thamrin No. 141,Bekasi,Jawa Barat,12624000000,335,3,1,474,2024-09-16,sold,160
+LST00165,AGT037,Rumah,Jl. Kaliurang No. 12,Jakarta Barat,DKI Jakarta,11888000000,417,2,2,566,2023-06-08,off_market,117
+LST00166,AGT016,Rumah,Jl. Mawar No. 18,Tangerang,Banten,5153000000,162,6,3,175,2024-03-06,active,339
+LST00167,AGT070,Apartemen,Jl. Braga No. 60,Bandung,Jawa Barat,3300000000,49,1,2,,2024-02-19,off_market,290
+LST00168,AGT026,Rumah,Perumahan Citra Garden Blok D18 No. 92,Jakarta Utara,DKI Jakarta,5668000000,308,6,5,330,2022-02-14,active,21
+LST00169,AGT064,Kavling,Cluster Mawar Blok F6 No. 3,Jakarta Barat,DKI Jakarta,2368000000,236,0,0,236,2023-12-12,active,351
+LST00170,AGT091,Kavling,Perumahan Citra Garden Blok C26 No. 8,Jakarta Selatan,DKI Jakarta,1655000000,400,0,0,400,2023-06-12,active,199
+LST00171,AGT008,Apartemen,Jl. Riau No. 169,Bandung,Jawa Barat,4896000000,93,2,1,,2022-10-09,sold,23
+LST00172,AGT098,Apartemen,Jl. Cendana No. 110,Jakarta Barat,DKI Jakarta,4615000000,195,2,2,,2023-10-02,active,310
+LST00173,AGT085,Rumah,Perumahan Citra Garden Blok F26 No. 26,Bali,Bali,7859000000,337,3,1,504,2022-10-10,sold,80
+LST00174,AGT135,Rumah,Jl. Kemang Raya No. 18,Bekasi,Jawa Barat,2715000000,280,3,3,424,2024-12-27,active,369
+LST00175,AGT031,Apartemen,Jl. Kemang Raya No. 226,Bandung,Jawa Barat,1858000000,103,2,3,,2024-04-27,active,211
+LST00176,AGT078,Rumah,Perumahan Bintaro Sektor Blok B1 No. 98,Tangerang,Banten,7758000000,441,4,2,640,2023-07-01,active,311
+LST00177,AGT146,Ruko,Jl. Wolter Monginsidi No. 21,Jakarta Selatan,DKI Jakarta,4583000000,385,0,1,414,2024-09-03,active,69
+LST00178,AGT129,Rumah,Jl. Malioboro No. 122,Jakarta Barat,DKI Jakarta,14363000000,369,5,3,416,2022-10-09,active,84
+LST00179,AGT050,Apartemen,Jl. Dago No. 57,Yogyakarta,DI Yogyakarta,2203000000,30,4,1,,2023-02-20,active,388
+LST00180,AGT053,Apartemen,Jl. Kemang Raya No. 222,Bekasi,Jawa Barat,891000000,67,4,3,,2024-07-26,sold,64
+LST00181,AGT110,Vila,Perumahan Cibubur Country Blok D20 No. 96,Surabaya,Jawa Timur,14266000000,171,7,8,643,2025-01-03,active,269
+LST00182,AGT010,Rumah,Jl. Sudirman No. 133,Bekasi,Jawa Barat,9030000000,115,5,4,125,2025-01-06,off_market,232
+LST00183,AGT011,Apartemen,Jl. Riau No. 227,Bandung,Jawa Barat,4918000000,121,1,1,,2023-09-16,sold,74
+LST00184,AGT119,Ruko,Jl. Kaliurang No. 232,Bogor,Jawa Barat,3527000000,296,0,2,374,2022-10-19,sold,119
+LST00185,AGT116,Apartemen,Jl. Sakura No. 101,Bekasi,Jawa Barat,1090000000,150,1,1,,2024-04-26,sold,83
+LST00186,AGT116,Apartemen,Jl. Pinang No. 226,Jakarta Selatan,DKI Jakarta,554000000,67,4,3,,2024-07-20,active,47
+LST00187,AGT065,Rumah,Perumahan Taman Mas Blok F15 No. 82,Depok,Jawa Barat,5809000000,414,3,3,601,2024-01-14,active,44
+LST00188,AGT135,Rumah,Cluster Mawar Blok A25 No. 22,Jakarta Timur,DKI Jakarta,12088000000,256,6,5,296,2023-11-18,active,290
+LST00189,AGT039,Ruko,Jl. Dago No. 79,Tangerang,Banten,3456000000,154,0,1,252,2023-09-26,sold,115
+LST00190,AGT074,Kavling,Perumahan Bintaro Sektor Blok B1 No. 80,Depok,Jawa Barat,2765000000,172,0,0,172,2023-06-03,active,7
+LST00191,AGT118,Apartemen,Jl. Basuki Rahmat No. 117,Jakarta Pusat,DKI Jakarta,4426000000,149,1,2,,2024-04-19,sold,114
+LST00192,AGT021,Ruko,Jl. Kelapa No. 13,Jakarta Selatan,DKI Jakarta,907000000,205,0,3,240,2023-01-14,active,76
+LST00193,AGT015,Apartemen,Jl. Cikini No. 85,Depok,Jawa Barat,3209000000,31,2,1,,2022-06-29,off_market,55
+LST00194,AGT028,Apartemen,Jl. Jati No. 248,Bekasi,Jawa Barat,3765000000,67,2,3,,2024-07-21,sold,149
+LST00195,AGT093,Rumah,Jl. Cempaka No. 195,Bandung,Jawa Barat,1087000000,107,4,3,201,2024-05-25,off_market,63
+LST00196,AGT075,Rumah,Jl. Kaliurang No. 54,Jakarta Selatan,DKI Jakarta,8213000000,128,2,2,212,2023-03-05,active,314
+LST00197,AGT015,Kavling,Jl. Kaliurang No. 23,Bekasi,Jawa Barat,647000000,372,0,0,372,2024-09-17,active,371
+LST00198,AGT074,Apartemen,Jl. Wolter Monginsidi No. 238,Bandung,Jawa Barat,3848000000,177,3,2,,2022-09-23,active,315
+LST00199,AGT145,Kavling,Jl. Malioboro No. 127,Jakarta Utara,DKI Jakarta,2233000000,346,0,0,346,2023-01-04,active,313
+LST00200,AGT060,Kavling,Perumahan Griya Asri Blok D21 No. 16,Jakarta Barat,DKI Jakarta,1389000000,179,0,0,179,2023-03-01,sold,158
+LST00201,AGT107,Kavling,Perumahan Citra Garden Blok G21 No. 28,Bandung,Jawa Barat,1895000000,103,0,0,103,2022-01-24,active,328
+LST00202,AGT052,Kavling,Jl. Cikini No. 77,Depok,Jawa Barat,1353000000,210,0,0,210,2024-11-03,active,282
+LST00203,AGT083,Kavling,Jl. Senopati No. 102,Surabaya,Jawa Timur,225000000,138,0,0,138,2022-03-01,sold,45
+LST00204,AGT050,Rumah,Jl. Sakura No. 124,Jakarta Selatan,DKI Jakarta,5915000000,486,4,4,607,2022-11-15,active,322
+LST00205,AGT118,Rumah,Jl. Kenanga No. 214,Surabaya,Jawa Timur,14675000000,334,4,4,534,2024-12-03,sold,77
+LST00206,AGT145,Kavling,Jl. Melati No. 54,Tangerang,Banten,2977000000,241,0,0,241,2023-11-11,active,182
+LST00207,AGT017,Rumah,Jl. Mahoni No. 147,Yogyakarta,DI Yogyakarta,2946000000,203,2,2,299,2024-03-08,sold,48
+LST00208,AGT030,Rumah,Cluster Mawar Blok A16 No. 31,Surabaya,Jawa Timur,14665000000,460,4,3,641,2024-02-01,active,232
+LST00209,AGT078,Rumah,Perumahan Griya Asri Blok G7 No. 12,Bekasi,Jawa Barat,4041000000,328,4,2,356,2024-06-27,active,260
+LST00210,AGT007,Apartemen,Jl. Basuki Rahmat No. 188,Surabaya,Jawa Timur,4303000000,150,2,1,,2024-12-08,sold,80
+LST00211,AGT084,Rumah,Jl. Tunjungan No. 100,Yogyakarta,DI Yogyakarta,2847000000,453,2,1,505,2024-12-05,off_market,89
+LST00212,AGT002,Vila,Jl. Anggrek No. 27,Jakarta Timur,DKI Jakarta,11190000000,172,7,6,392,2024-12-02,sold,169
+LST00213,AGT080,Kavling,Jl. Kelapa No. 83,Surabaya,Jawa Timur,292000000,375,0,0,375,2023-02-15,active,99
+LST00214,AGT074,Rumah,Perumahan Bintaro Sektor Blok B9 No. 15,Jakarta Barat,DKI Jakarta,5032000000,332,4,4,503,2022-02-01,active,319
+LST00215,AGT144,Apartemen,Jl. Kemang Raya No. 70,Surabaya,Jawa Timur,4561000000,48,2,3,,2022-10-17,active,361
+LST00216,AGT073,Kavling,Perumahan Kelapa Gading Blok E29 No. 44,Bekasi,Jawa Barat,2551000000,205,0,0,205,2025-01-12,active,228
+LST00217,AGT013,Rumah,Perumahan Taman Mas Blok D13 No. 23,Bekasi,Jawa Barat,2631000000,74,5,1,101,2024-07-02,active,316
+LST00218,AGT092,Apartemen,Jl. Dahlia No. 250,Jakarta Timur,DKI Jakarta,2909000000,107,2,3,,2024-08-11,sold,146
+LST00219,AGT034,Ruko,Jl. Tunjungan No. 121,Bandung,Jawa Barat,2322000000,319,0,1,377,2023-04-20,sold,58
+LST00220,AGT037,Ruko,Jl. Senopati No. 202,Bogor,Jawa Barat,5027000000,266,0,2,289,2023-10-28,active,233
+LST00221,AGT125,Rumah,Jl. Mahoni No. 73,Depok,Jawa Barat,995000000,93,5,1,182,2023-12-15,active,310
+LST00222,AGT148,Apartemen,Jl. Flamboyan No. 84,Surabaya,Jawa Timur,1393000000,152,1,2,,2022-05-26,sold,78
+LST00223,AGT137,Apartemen,Jl. Mahoni No. 250,Depok,Jawa Barat,4126000000,124,4,1,,2024-09-14,sold,99
+LST00224,AGT017,Kavling,Jl. Pemuda No. 201,Bandung,Jawa Barat,1595000000,186,0,0,186,2024-06-10,sold,146
+LST00225,AGT088,Rumah,Jl. Malioboro No. 30,Depok,Jawa Barat,9421000000,415,3,1,584,2024-08-06,sold,84
+LST00226,AGT143,Apartemen,Jl. Cempaka No. 154,Jakarta Selatan,DKI Jakarta,1149000000,135,2,2,,2022-08-11,active,351
+LST00227,AGT098,Rumah,Jl. Mawar No. 194,Bekasi,Jawa Barat,5864000000,313,2,1,368,2022-10-28,sold,170
+LST00228,AGT039,Rumah,Jl. Pinang No. 53,Yogyakarta,DI Yogyakarta,7921000000,332,4,4,489,2023-10-11,active,154
+LST00229,AGT146,Apartemen,Jl. Solo No. 104,Surabaya,Jawa Timur,2844000000,133,3,1,,2022-09-19,sold,76
+LST00230,AGT016,Rumah,Jl. Wolter Monginsidi No. 29,Bandung,Jawa Barat,6549000000,341,2,1,521,2023-08-01,sold,8
+LST00231,AGT061,Kavling,Jl. Kemang Raya No. 183,Depok,Jawa Barat,1968000000,439,0,0,439,2024-02-23,active,208
+LST00232,AGT098,Rumah,Jl. Pinang No. 143,Jakarta Pusat,DKI Jakarta,7630000000,339,3,3,383,2024-02-27,sold,93
+LST00233,AGT107,Rumah,Perumahan Griya Asri Blok B24 No. 63,Jakarta Selatan,DKI Jakarta,3027000000,207,3,1,209,2024-06-13,active,70
+LST00234,AGT022,Ruko,Jl. Pemuda No. 160,Bandung,Jawa Barat,3048000000,292,0,2,392,2023-01-04,active,233
+LST00235,AGT131,Rumah,Cluster Mawar Blok E1 No. 74,Jakarta Selatan,DKI Jakarta,7448000000,342,5,4,432,2024-10-17,off_market,151
+LST00236,AGT129,Rumah,Perumahan Griya Asri Blok E16 No. 91,Yogyakarta,DI Yogyakarta,4911000000,270,6,5,363,2024-01-25,sold,29
+LST00237,AGT149,Kavling,Perumahan Graha Famili Blok F17 No. 97,Bandung,Jawa Barat,2172000000,433,0,0,433,2023-07-27,sold,120
+LST00238,AGT133,Rumah,Jl. Cempaka No. 176,Jakarta Pusat,DKI Jakarta,1781000000,327,6,1,389,2025-01-09,sold,149
+LST00239,AGT080,Rumah,Jl. Basuki Rahmat No. 147,Depok,Jawa Barat,10544000000,87,4,1,207,2023-11-10,active,216
+LST00240,AGT091,Rumah,Jl. Cikini No. 187,Malang,Jawa Timur,13578000000,210,4,2,219,2023-06-18,active,32
+LST00241,AGT122,Apartemen,Jl. Melati No. 74,Jakarta Barat,DKI Jakarta,1735000000,168,1,2,,2024-09-19,active,43
+LST00242,AGT033,Apartemen,Jl. Gatot Subroto No. 71,Jakarta Timur,DKI Jakarta,4491000000,41,3,2,,2023-06-11,sold,4
+LST00243,AGT029,Ruko,Jl. Asia Afrika No. 207,Tangerang,Banten,3660000000,382,0,3,401,2022-12-26,sold,67
+LST00244,AGT061,Vila,Jl. Cendana No. 153,Jakarta Selatan,DKI Jakarta,16889000000,242,7,6,467,2022-11-12,sold,127
+LST00245,AGT106,Ruko,Jl. Mahoni No. 54,Jakarta Selatan,DKI Jakarta,7077000000,201,0,3,257,2023-12-08,active,28
+LST00246,AGT068,Apartemen,Jl. Cikini No. 122,Jakarta Selatan,DKI Jakarta,1300000000,35,2,2,,2024-12-26,sold,60
+LST00247,AGT098,Ruko,Jl. Pemuda No. 4,Surabaya,Jawa Timur,7190000000,322,0,2,340,2023-08-15,active,230
+LST00248,AGT098,Kavling,Jl. Anggrek No. 25,Tangerang,Banten,2979000000,241,0,0,241,2024-12-24,sold,164
+LST00249,AGT091,Ruko,Jl. Gatot Subroto No. 206,Jakarta Barat,DKI Jakarta,7874000000,392,0,3,426,2022-07-21,sold,66
+LST00250,AGT150,Vila,Jl. Pinang No. 134,Jakarta Barat,DKI Jakarta,13817000000,386,4,5,780,2023-11-23,active,347
+LST00251,AGT047,Apartemen,Jl. Mawar No. 106,Jakarta Selatan,DKI Jakarta,2916000000,162,1,1,,2022-07-20,active,269
+LST00252,AGT027,Apartemen,Jl. Pinang No. 9,Depok,Jawa Barat,4003000000,111,2,3,,2022-02-18,off_market,77
+LST00253,AGT015,Rumah,Perumahan Taman Mas Blok A28 No. 78,Jakarta Selatan,DKI Jakarta,10234000000,396,3,3,559,2022-09-24,sold,97
+LST00254,AGT145,Apartemen,Jl. Cempaka No. 164,Jakarta Selatan,DKI Jakarta,1863000000,50,2,2,,2024-07-17,sold,71
+LST00255,AGT110,Rumah,Jl. Gatot Subroto No. 199,Tangerang,Banten,11841000000,401,4,3,442,2022-05-08,sold,98
+LST00256,AGT100,Kavling,Perumahan Kelapa Gading Blok B15 No. 9,Medan,Sumatera Utara,1562000000,110,0,0,110,2024-10-04,active,103
+LST00257,AGT101,Ruko,Jl. Pemuda No. 56,Surabaya,Jawa Timur,3723000000,331,0,1,349,2022-08-06,sold,114
+LST00258,AGT067,Rumah,Jl. Pahlawan No. 5,Bali,Bali,2192000000,77,2,1,223,2024-10-16,active,77
+LST00259,AGT001,Vila,Jl. Riau No. 148,Jakarta Barat,DKI Jakarta,2239000000,490,6,6,617,2022-01-08,active,264
+LST00260,AGT126,Rumah,Cluster Mawar Blok F27 No. 62,Bekasi,Jawa Barat,8333000000,283,5,1,421,2022-09-06,active,291
+LST00261,AGT138,Rumah,Jl. Dahlia No. 94,Jakarta Barat,DKI Jakarta,6380000000,230,4,4,244,2024-12-30,active,175
+LST00262,AGT021,Apartemen,Jl. Braga No. 170,Jakarta Pusat,DKI Jakarta,4115000000,96,2,1,,2023-01-27,sold,77
+LST00263,AGT100,Rumah,Jl. Pahlawan No. 189,Jakarta Selatan,DKI Jakarta,2249000000,382,4,4,403,2023-01-24,off_market,101
+LST00264,AGT010,Rumah,Perumahan Citra Garden Blok F10 No. 64,Jakarta Selatan,DKI Jakarta,3663000000,72,6,2,197,2024-12-29,active,231
+LST00265,AGT005,Apartemen,Jl. Anggrek No. 104,Malang,Jawa Timur,653000000,108,1,2,,2022-08-31,sold,55
+LST00266,AGT134,Vila,Jl. Cempaka No. 10,Jakarta Selatan,DKI Jakarta,16019000000,497,7,6,926,2022-10-17,sold,126
+LST00267,AGT005,Rumah,Jl. Mawar No. 45,Jakarta Timur,DKI Jakarta,8220000000,376,2,1,555,2022-04-13,active,158
+LST00268,AGT025,Apartemen,Jl. Flamboyan No. 30,Jakarta Barat,DKI Jakarta,4087000000,178,2,3,,2024-10-15,sold,153
+LST00269,AGT057,Kavling,Perumahan Cibubur Country Blok G27 No. 95,Bandung,Jawa Barat,458000000,491,0,0,491,2024-04-03,off_market,196
+LST00270,AGT031,Rumah,Jl. Kelapa No. 196,Semarang,Jawa Tengah,11708000000,354,6,2,436,2022-04-04,sold,152
+LST00271,AGT045,Rumah,Jl. Mahoni No. 179,Yogyakarta,DI Yogyakarta,5996000000,92,2,2,128,2024-01-28,sold,142
+LST00272,AGT043,Ruko,Jl. Braga No. 200,Jakarta Selatan,DKI Jakarta,7987000000,204,0,3,209,2022-11-20,active,9
+LST00273,AGT125,Rumah,Jl. Diponegoro No. 107,Jakarta Selatan,DKI Jakarta,1822000000,63,2,1,85,2024-09-01,sold,178
+LST00274,AGT033,Rumah,Perumahan Bintaro Sektor Blok E23 No. 5,Tangerang,Banten,3877000000,133,4,4,238,2023-01-04,active,368
+LST00275,AGT128,Rumah,Perumahan BSD Blok B4 No. 68,Jakarta Barat,DKI Jakarta,10527000000,105,4,3,212,2022-07-15,sold,159
+LST00276,AGT093,Rumah,Jl. Kelapa No. 71,Bandung,Jawa Barat,14634000000,449,6,5,505,2022-04-19,sold,50
+LST00277,AGT029,Rumah,Perumahan Griya Asri Blok A21 No. 47,Depok,Jawa Barat,13551000000,136,5,4,181,2023-08-07,active,108
+LST00278,AGT112,Apartemen,Jl. Kenanga No. 237,Semarang,Jawa Tengah,2409000000,107,4,1,,2025-01-05,off_market,120
+LST00279,AGT041,Apartemen,Jl. Pahlawan No. 152,Jakarta Timur,DKI Jakarta,588000000,146,1,1,,2023-10-30,sold,108
+LST00280,AGT051,Apartemen,Jl. Sudirman No. 189,Surabaya,Jawa Timur,3018000000,80,1,2,,2024-04-24,active,103
+LST00281,AGT097,Rumah,Cluster Mawar Blok B7 No. 79,Surabaya,Jawa Timur,4115000000,97,5,5,221,2024-07-20,sold,46
+LST00282,AGT100,Kavling,Jl. Pinang No. 162,Jakarta Pusat,DKI Jakarta,1729000000,149,0,0,149,2024-01-05,sold,70
+LST00283,AGT052,Rumah,Cluster Anggrek Blok D14 No. 22,Surabaya,Jawa Timur,6003000000,125,2,1,196,2023-12-05,active,113
+LST00284,AGT076,Ruko,Jl. Pisang No. 23,Surabaya,Jawa Timur,3368000000,393,0,1,466,2024-04-23,sold,134
+LST00285,AGT126,Apartemen,Jl. Pemuda No. 189,Bogor,Jawa Barat,2123000000,173,4,2,,2023-05-21,active,127
+LST00286,AGT084,Apartemen,Jl. Mawar No. 107,Bali,Bali,3907000000,170,2,3,,2022-04-01,sold,11
+LST00287,AGT121,Rumah,Jl. Basuki Rahmat No. 208,Semarang,Jawa Tengah,12517000000,453,6,1,561,2022-07-20,active,232
+LST00288,AGT127,Apartemen,Jl. Sakura No. 92,Jakarta Selatan,DKI Jakarta,2320000000,43,1,2,,2023-08-29,sold,62
+LST00289,AGT024,Ruko,Jl. Tunjungan No. 220,Jakarta Selatan,DKI Jakarta,1060000000,325,0,3,364,2022-02-19,active,233
+LST00290,AGT119,Rumah,Jl. Mawar No. 221,Tangerang,Banten,13145000000,130,5,2,224,2022-05-25,sold,99
+LST00291,AGT086,Rumah,Perumahan Pondok Indah Blok E19 No. 27,Bekasi,Jawa Barat,9198000000,76,4,4,268,2022-06-15,sold,159
+LST00292,AGT086,Rumah,Jl. Tulip No. 99,Jakarta Selatan,DKI Jakarta,12554000000,88,6,6,181,2024-01-19,sold,120
+LST00293,AGT011,Apartemen,Jl. Cempaka No. 144,Bandung,Jawa Barat,3344000000,115,2,3,,2023-02-24,sold,36
+LST00294,AGT086,Rumah,Jl. Kelapa No. 193,Jakarta Utara,DKI Jakarta,4409000000,336,2,2,524,2023-04-07,sold,83
+LST00295,AGT091,Rumah,Perumahan Cibubur Country Blok D16 No. 65,Yogyakarta,DI Yogyakarta,4880000000,317,5,3,330,2024-12-14,active,63
+LST00296,AGT121,Rumah,Jl. Cempaka No. 49,Bandung,Jawa Barat,12129000000,332,6,3,447,2024-07-26,sold,23
+LST00297,AGT021,Rumah,Perumahan Taman Mas Blok F5 No. 64,Bekasi,Jawa Barat,6900000000,151,4,1,178,2022-11-05,sold,53
+LST00298,AGT134,Apartemen,Jl. Sakura No. 122,Jakarta Selatan,DKI Jakarta,535000000,97,4,3,,2023-12-12,sold,108
+LST00299,AGT114,Ruko,Jl. Pisang No. 214,Bandung,Jawa Barat,1151000000,229,0,1,237,2024-11-30,active,331
+LST00300,AGT086,Rumah,Jl. Kaliurang No. 216,Jakarta Barat,DKI Jakarta,7245000000,356,4,3,480,2025-01-28,sold,114
+LST00301,AGT118,Apartemen,Jl. Thamrin No. 59,Bandung,Jawa Barat,2841000000,167,2,2,,2024-09-18,sold,96
+LST00302,AGT074,Ruko,Jl. Mahoni No. 159,Surabaya,Jawa Timur,1575000000,155,0,2,191,2022-11-26,active,365
+LST00303,AGT138,Rumah,Jl. Cendana No. 42,Jakarta Barat,DKI Jakarta,5173000000,153,3,3,330,2023-05-03,active,60
+LST00304,AGT011,Ruko,Jl. Jati No. 53,Jakarta Selatan,DKI Jakarta,5987000000,374,0,1,430,2022-03-13,sold,171
+LST00305,AGT082,Apartemen,Jl. Mahoni No. 137,Yogyakarta,DI Yogyakarta,3166000000,59,3,2,,2023-09-10,sold,32
+LST00306,AGT007,Kavling,Jl. Tunjungan No. 238,Surabaya,Jawa Timur,1857000000,335,0,0,335,2023-10-18,active,80
+LST00307,AGT002,Rumah,Jl. Basuki Rahmat No. 230,Jakarta Timur,DKI Jakarta,12599000000,339,6,3,504,2023-08-17,active,387
+LST00308,AGT147,Apartemen,Jl. Basuki Rahmat No. 231,Jakarta Utara,DKI Jakarta,1554000000,166,4,2,,2022-03-24,sold,36
+LST00309,AGT142,Kavling,Perumahan Pondok Indah Blok G8 No. 58,Medan,Sumatera Utara,678000000,237,0,0,237,2024-01-02,active,48
+LST00310,AGT084,Rumah,Perumahan Kelapa Gading Blok B1 No. 11,Yogyakarta,DI Yogyakarta,1401000000,371,3,3,505,2025-01-07,sold,115
+LST00311,AGT023,Rumah,Jl. Solo No. 242,Surabaya,Jawa Timur,8885000000,261,3,2,342,2022-04-25,active,342
+LST00312,AGT093,Kavling,Jl. Pemuda No. 95,Yogyakarta,DI Yogyakarta,1828000000,155,0,0,155,2024-03-01,active,191
+LST00313,AGT004,Kavling,Cluster Anggrek Blok G18 No. 12,Yogyakarta,DI Yogyakarta,1365000000,256,0,0,256,2023-03-18,active,373
+LST00314,AGT114,Apartemen,Jl. Pemuda No. 187,Bandung,Jawa Barat,3754000000,135,3,1,,2024-04-28,active,72
+LST00315,AGT023,Ruko,Jl. Kaliurang No. 86,Depok,Jawa Barat,3153000000,186,0,2,246,2022-05-16,active,303
+LST00316,AGT097,Ruko,Jl. Dago No. 45,Tangerang,Banten,2249000000,83,0,2,164,2024-08-04,sold,146
+LST00317,AGT036,Apartemen,Jl. Anggrek No. 211,Semarang,Jawa Tengah,1982000000,69,4,2,,2023-09-11,active,300
+LST00318,AGT078,Apartemen,Jl. Mawar No. 40,Depok,Jawa Barat,4397000000,165,4,1,,2023-06-22,active,154
+LST00319,AGT121,Apartemen,Jl. Sudirman No. 8,Bekasi,Jawa Barat,1367000000,189,3,2,,2022-09-02,active,392
+LST00320,AGT071,Vila,Jl. Pemuda No. 223,Jakarta Selatan,DKI Jakarta,17156000000,184,7,8,419,2023-06-13,active,322
+LST00321,AGT122,Apartemen,Jl. Kenanga No. 38,Bali,Bali,1329000000,117,1,2,,2023-10-17,sold,119
+LST00322,AGT035,Rumah,Jl. Wolter Monginsidi No. 13,Surabaya,Jawa Timur,6355000000,143,2,2,235,2023-08-17,sold,75
+LST00323,AGT136,Apartemen,Jl. Flamboyan No. 154,Bandung,Jawa Barat,979000000,153,2,3,,2022-12-09,active,279
+LST00324,AGT083,Rumah,Jl. Asia Afrika No. 25,Jakarta Selatan,DKI Jakarta,14794000000,221,4,3,396,2024-12-30,sold,149
+LST00325,AGT091,Rumah,Cluster Anggrek Blok D11 No. 21,Jakarta Pusat,DKI Jakarta,13989000000,133,2,1,265,2022-07-29,active,112
+LST00326,AGT040,Apartemen,Jl. Kaliurang No. 217,Yogyakarta,DI Yogyakarta,4473000000,78,2,3,,2024-12-25,active,365
+LST00327,AGT142,Apartemen,Jl. Sakura No. 237,Jakarta Selatan,DKI Jakarta,1283000000,128,4,1,,2022-02-05,sold,123
+LST00328,AGT090,Apartemen,Jl. Kaliurang No. 196,Depok,Jawa Barat,2902000000,198,3,1,,2023-12-02,active,89
+LST00329,AGT078,Rumah,Jl. Cendana No. 177,Depok,Jawa Barat,971000000,441,2,1,473,2023-04-10,sold,79
+LST00330,AGT033,Apartemen,Jl. Tulip No. 20,Jakarta Barat,DKI Jakarta,2069000000,55,1,2,,2022-02-08,sold,124
+LST00331,AGT111,Vila,Jl. Kenanga No. 121,Surabaya,Jawa Timur,2393000000,250,3,2,706,2022-09-01,off_market,159
+LST00332,AGT012,Kavling,Jl. Flamboyan No. 201,Yogyakarta,DI Yogyakarta,471000000,234,0,0,234,2022-09-11,sold,155
+LST00333,AGT053,Ruko,Jl. Cendana No. 217,Yogyakarta,DI Yogyakarta,4077000000,174,0,3,218,2023-07-23,active,297
+LST00334,AGT090,Apartemen,Jl. Flamboyan No. 210,Jakarta Timur,DKI Jakarta,3235000000,63,2,3,,2022-01-29,active,271
+LST00335,AGT056,Apartemen,Jl. Flamboyan No. 237,Jakarta Utara,DKI Jakarta,1919000000,94,2,3,,2023-03-15,sold,130
+LST00336,AGT122,Rumah,Jl. Flamboyan No. 47,Bandung,Jawa Barat,6504000000,417,6,2,529,2023-12-28,sold,98
+LST00337,AGT109,Kavling,Perumahan Taman Mas Blok G11 No. 16,Bogor,Jawa Barat,1077000000,343,0,0,343,2024-08-12,active,57
+LST00338,AGT134,Rumah,Jl. Dahlia No. 84,Tangerang,Banten,2726000000,313,4,3,455,2024-10-08,active,60
+LST00339,AGT099,Ruko,Jl. Pahlawan No. 58,Jakarta Selatan,DKI Jakarta,5446000000,313,0,3,407,2024-04-14,active,149
+LST00340,AGT110,Ruko,Jl. Mawar No. 173,Bali,Bali,3893000000,115,0,2,201,2024-10-03,active,345
+LST00341,AGT027,Rumah,Perumahan Bintaro Sektor Blok D13 No. 89,Bali,Bali,6994000000,284,6,6,457,2022-07-28,sold,44
+LST00342,AGT017,Ruko,Jl. Riau No. 32,Jakarta Selatan,DKI Jakarta,6759000000,181,0,2,206,2023-04-22,active,218
+LST00343,AGT128,Apartemen,Jl. Wolter Monginsidi No. 122,Surabaya,Jawa Timur,2631000000,170,3,3,,2024-04-08,sold,125
+LST00344,AGT131,Apartemen,Jl. Malioboro No. 128,Yogyakarta,DI Yogyakarta,2634000000,59,4,1,,2023-04-18,sold,161
+LST00345,AGT035,Apartemen,Jl. Melati No. 249,Depok,Jawa Barat,593000000,47,1,1,,2023-01-02,active,196
+LST00346,AGT084,Ruko,Jl. Cempaka No. 170,Tangerang,Banten,3302000000,235,0,3,314,2024-11-30,active,393
+LST00347,AGT127,Ruko,Jl. Solo No. 67,Jakarta Barat,DKI Jakarta,8435000000,183,0,2,267,2025-01-15,active,176
+LST00348,AGT139,Ruko,Jl. Tulip No. 99,Depok,Jawa Barat,9755000000,89,0,1,144,2024-07-10,sold,81
+LST00349,AGT097,Kavling,Perumahan Bintaro Sektor Blok E22 No. 39,Jakarta Selatan,DKI Jakarta,2012000000,315,0,0,315,2022-12-03,active,252
+LST00350,AGT111,Apartemen,Jl. Malioboro No. 169,Malang,Jawa Timur,1451000000,101,4,2,,2025-01-09,active,293
+LST00351,AGT121,Rumah,Cluster Anggrek Blok E13 No. 79,Tangerang,Banten,8297000000,347,3,3,361,2023-12-24,sold,73
+LST00352,AGT083,Rumah,Jl. Wolter Monginsidi No. 208,Jakarta Selatan,DKI Jakarta,1506000000,74,6,1,106,2022-02-25,active,392
+LST00353,AGT088,Apartemen,Jl. Dago No. 90,Jakarta Timur,DKI Jakarta,3467000000,46,4,2,,2022-04-26,active,339
+LST00354,AGT063,Apartemen,Jl. Cempaka No. 223,Surabaya,Jawa Timur,2378000000,82,3,3,,2023-09-17,sold,30
+LST00355,AGT087,Rumah,Jl. Pemuda No. 146,Depok,Jawa Barat,3281000000,70,6,3,79,2024-11-20,sold,108
+LST00356,AGT069,Kavling,Jl. Melati No. 82,Bali,Bali,283000000,436,0,0,436,2024-02-13,sold,147
+LST00357,AGT100,Apartemen,Jl. Kelapa No. 87,Bandung,Jawa Barat,2991000000,168,1,2,,2024-10-14,active,258
+LST00358,AGT087,Kavling,Cluster Mawar Blok B16 No. 82,Depok,Jawa Barat,882000000,394,0,0,394,2022-06-04,sold,138
+LST00359,AGT055,Rumah,Jl. Pisang No. 160,Bali,Bali,5208000000,195,2,2,341,2022-07-08,active,368
+LST00360,AGT149,Rumah,Jl. Kaliurang No. 122,Tangerang,Banten,2052000000,363,4,3,380,2024-05-24,active,108
+LST00361,AGT089,Ruko,Jl. Kemang Raya No. 52,Surabaya,Jawa Timur,2056000000,234,0,3,272,2024-04-28,active,206
+LST00362,AGT065,Ruko,Jl. Melati No. 161,Bali,Bali,9243000000,312,0,3,409,2024-11-23,active,96
+LST00363,AGT148,Kavling,Jl. Tunjungan No. 69,Bekasi,Jawa Barat,2244000000,189,0,0,189,2024-12-27,sold,158
+LST00364,AGT112,Rumah,Jl. Sudirman No. 39,Bandung,Jawa Barat,9775000000,432,2,1,525,2023-09-07,sold,112
+LST00365,AGT106,Apartemen,Jl. Diponegoro No. 166,Bekasi,Jawa Barat,2960000000,38,2,2,,2022-11-25,active,132
+LST00366,AGT061,Rumah,Perumahan Kelapa Gading Blok D16 No. 72,Bali,Bali,7149000000,182,2,1,231,2024-06-12,active,217
+LST00367,AGT010,Kavling,Perumahan Griya Asri Blok C26 No. 36,Surabaya,Jawa Timur,1027000000,161,0,0,161,2022-12-27,active,330
+LST00368,AGT011,Ruko,Jl. Cikini No. 222,Yogyakarta,DI Yogyakarta,8760000000,90,0,1,100,2022-05-11,sold,105
+LST00369,AGT094,Apartemen,Jl. Solo No. 239,Bekasi,Jawa Barat,1089000000,123,2,1,,2022-09-05,active,268
+LST00370,AGT149,Rumah,Perumahan Taman Mas Blok G26 No. 41,Depok,Jawa Barat,13199000000,328,4,4,351,2023-11-06,sold,150
+LST00371,AGT100,Ruko,Jl. Kelapa No. 249,Bali,Bali,4665000000,296,0,1,314,2023-07-17,sold,113
+LST00372,AGT105,Apartemen,Jl. Tulip No. 82,Bali,Bali,2433000000,172,1,2,,2025-01-22,active,217
+LST00373,AGT122,Vila,Jl. Cikini No. 6,Bekasi,Jawa Barat,9072000000,292,4,4,585,2022-03-13,off_market,57
+LST00374,AGT062,Apartemen,Jl. Asia Afrika No. 232,Yogyakarta,DI Yogyakarta,2422000000,163,4,2,,2022-09-07,sold,137
+LST00375,AGT061,Apartemen,Jl. Thamrin No. 78,Jakarta Selatan,DKI Jakarta,3974000000,121,1,2,,2022-07-04,active,388
+LST00376,AGT061,Ruko,Jl. Dago No. 203,Bali,Bali,5672000000,187,0,1,243,2022-03-11,sold,71
+LST00377,AGT021,Apartemen,Jl. Flamboyan No. 212,Tangerang,Banten,4377000000,142,4,2,,2022-11-25,active,358
+LST00378,AGT067,Rumah,Jl. Kemang Raya No. 117,Jakarta Selatan,DKI Jakarta,8795000000,93,4,4,247,2022-02-26,sold,14
+LST00379,AGT048,Kavling,Jl. Sakura No. 1,Bali,Bali,2781000000,307,0,0,307,2024-03-31,active,103
+LST00380,AGT079,Apartemen,Jl. Kaliurang No. 183,Semarang,Jawa Tengah,2920000000,169,1,1,,2022-09-24,sold,153
+LST00381,AGT106,Ruko,Jl. Jati No. 176,Surabaya,Jawa Timur,6033000000,311,0,2,405,2023-11-02,sold,73
+LST00382,AGT051,Rumah,Jl. Pisang No. 6,Jakarta Utara,DKI Jakarta,1882000000,272,4,2,372,2022-02-17,sold,143
+LST00383,AGT059,Rumah,Jl. Kenanga No. 103,Bali,Bali,1957000000,296,3,2,475,2024-05-28,off_market,163
+LST00384,AGT039,Apartemen,Jl. Kaliurang No. 112,Depok,Jawa Barat,1079000000,116,2,3,,2024-07-18,active,345
+LST00385,AGT127,Ruko,Jl. Gatot Subroto No. 74,Depok,Jawa Barat,2741000000,194,0,3,220,2024-10-09,active,196
+LST00386,AGT034,Ruko,Jl. Diponegoro No. 187,Jakarta Selatan,DKI Jakarta,7866000000,185,0,3,212,2023-01-23,sold,108
+LST00387,AGT047,Rumah,Jl. Sudirman No. 159,Depok,Jawa Barat,7193000000,465,3,1,539,2024-07-12,sold,64
+LST00388,AGT095,Kavling,Jl. Dahlia No. 3,Tangerang,Banten,2587000000,430,0,0,430,2024-08-18,active,69
+LST00389,AGT083,Apartemen,Jl. Pemuda No. 189,Jakarta Barat,DKI Jakarta,3606000000,197,2,3,,2023-06-09,active,38
+LST00390,AGT025,Ruko,Jl. Basuki Rahmat No. 233,Bali,Bali,9925000000,110,0,1,152,2023-12-27,active,311
+LST00391,AGT012,Kavling,Jl. Braga No. 78,Bandung,Jawa Barat,221000000,209,0,0,209,2024-03-19,sold,172
+LST00392,AGT095,Apartemen,Jl. Solo No. 127,Depok,Jawa Barat,1433000000,165,1,1,,2023-11-26,sold,120
+LST00393,AGT034,Rumah,Perumahan Cibubur Country Blok A5 No. 64,Bali,Bali,1968000000,222,6,4,258,2023-07-30,sold,93
+LST00394,AGT111,Ruko,Jl. Kaliurang No. 81,Depok,Jawa Barat,5435000000,214,0,3,311,2024-06-11,sold,43
+LST00395,AGT081,Kavling,Jl. Pahlawan No. 14,Jakarta Barat,DKI Jakarta,2212000000,471,0,0,471,2023-01-22,sold,39
+LST00396,AGT014,Apartemen,Jl. Tunjungan No. 112,Depok,Jawa Barat,2233000000,68,1,2,,2022-08-26,sold,127
+LST00397,AGT011,Rumah,Jl. Cendana No. 32,Jakarta Barat,DKI Jakarta,7733000000,242,6,4,359,2023-12-17,sold,24
+LST00398,AGT053,Kavling,Jl. Solo No. 211,Tangerang,Banten,1363000000,172,0,0,172,2023-07-13,active,289
+LST00399,AGT150,Apartemen,Jl. Cempaka No. 64,Jakarta Timur,DKI Jakarta,2089000000,171,1,1,,2024-10-17,sold,174
+LST00400,AGT025,Rumah,Perumahan Taman Mas Blok G11 No. 20,Bogor,Jawa Barat,5884000000,73,4,1,173,2022-03-01,active,42
+LST00401,AGT118,Ruko,Jl. Mawar No. 85,Depok,Jawa Barat,8661000000,312,0,3,346,2022-03-31,off_market,261
+LST00402,AGT084,Kavling,Perumahan Griya Asri Blok G21 No. 37,Jakarta Selatan,DKI Jakarta,2531000000,146,0,0,146,2023-10-24,active,29
+LST00403,AGT019,Apartemen,Jl. Jati No. 62,Bekasi,Jawa Barat,4832000000,176,4,1,,2024-03-27,off_market,75
+LST00404,AGT006,Rumah,Jl. Cendana No. 31,Jakarta Timur,DKI Jakarta,14464000000,166,3,2,365,2023-09-04,active,252
+LST00405,AGT111,Rumah,Jl. Asia Afrika No. 132,Surabaya,Jawa Timur,12556000000,472,4,2,563,2023-02-14,sold,126
+LST00406,AGT115,Rumah,Jl. Asia Afrika No. 158,Bali,Bali,6858000000,303,4,4,326,2023-01-17,off_market,252
+LST00407,AGT110,Rumah,Jl. Cendana No. 239,Jakarta Barat,DKI Jakarta,2022000000,80,6,3,198,2024-10-11,sold,135
+LST00408,AGT135,Rumah,Jl. Basuki Rahmat No. 77,Jakarta Pusat,DKI Jakarta,1875000000,208,5,4,228,2022-11-01,sold,33
+LST00409,AGT077,Rumah,Jl. Cempaka No. 235,Bandung,Jawa Barat,14287000000,187,6,4,262,2022-04-03,active,263
+LST00410,AGT028,Apartemen,Jl. Thamrin No. 91,Semarang,Jawa Tengah,4533000000,130,4,1,,2023-06-06,sold,150
+LST00411,AGT021,Apartemen,Jl. Jati No. 216,Jakarta Utara,DKI Jakarta,4474000000,26,1,2,,2024-03-15,sold,12
+LST00412,AGT022,Apartemen,Jl. Pahlawan No. 160,Depok,Jawa Barat,3759000000,98,3,3,,2023-06-27,active,175
+LST00413,AGT048,Vila,Perumahan Pakuwon Blok A14 No. 69,Surabaya,Jawa Timur,7916000000,244,3,4,603,2022-02-06,active,3
+LST00414,AGT102,Rumah,Jl. Riau No. 223,Bali,Bali,2411000000,66,3,3,188,2024-09-23,sold,78
+LST00415,AGT093,Ruko,Jl. Pinang No. 29,Tangerang,Banten,7271000000,234,0,1,250,2022-02-02,active,357
+LST00416,AGT049,Ruko,Jl. Sudirman No. 112,Surabaya,Jawa Timur,1239000000,187,0,2,270,2025-01-08,sold,49
+LST00417,AGT023,Rumah,Jl. Tulip No. 43,Bandung,Jawa Barat,5430000000,454,5,2,575,2022-11-09,off_market,257
+LST00418,AGT125,Kavling,Jl. Sudirman No. 52,Bekasi,Jawa Barat,2131000000,90,0,0,90,2023-08-27,sold,146
+LST00419,AGT101,Rumah,Jl. Pemuda No. 107,Surabaya,Jawa Timur,1334000000,230,2,1,391,2024-10-12,active,378
+LST00420,AGT149,Apartemen,Jl. Solo No. 152,Bali,Bali,4890000000,96,1,2,,2024-09-26,sold,60
+LST00421,AGT016,Vila,Jl. Gatot Subroto No. 229,Jakarta Selatan,DKI Jakarta,18311000000,159,6,7,370,2024-05-04,sold,122
+LST00422,AGT030,Apartemen,Jl. Melati No. 42,Jakarta Barat,DKI Jakarta,4403000000,181,3,2,,2023-08-13,active,372
+LST00423,AGT050,Ruko,Jl. Senopati No. 236,Jakarta Barat,DKI Jakarta,8488000000,256,0,2,285,2024-08-17,active,68
+LST00424,AGT076,Rumah,Jl. Asia Afrika No. 204,Depok,Jawa Barat,12345000000,424,5,4,596,2024-08-25,off_market,112
+LST00425,AGT054,Apartemen,Jl. Pinang No. 41,Medan,Sumatera Utara,2663000000,198,1,2,,2024-10-04,sold,26
+LST00426,AGT107,Ruko,Jl. Melati No. 92,Jakarta Selatan,DKI Jakarta,8889000000,235,0,1,261,2023-06-19,active,183
+LST00427,AGT041,Kavling,Perumahan Taman Mas Blok C14 No. 15,Depok,Jawa Barat,915000000,337,0,0,337,2023-04-10,active,62
+LST00428,AGT144,Rumah,Perumahan Griya Asri Blok G29 No. 72,Tangerang,Banten,4171000000,309,4,3,509,2023-07-02,sold,39
+LST00429,AGT132,Ruko,Jl. Tulip No. 250,Jakarta Selatan,DKI Jakarta,2506000000,105,0,2,163,2022-08-05,off_market,82
+LST00430,AGT144,Rumah,Perumahan BSD Blok C6 No. 94,Jakarta Barat,DKI Jakarta,1187000000,319,2,1,480,2023-08-22,active,363
+LST00431,AGT114,Apartemen,Jl. Senopati No. 210,Jakarta Barat,DKI Jakarta,4494000000,149,1,1,,2022-10-10,sold,32
+LST00432,AGT052,Kavling,Jl. Mawar No. 63,Depok,Jawa Barat,1998000000,292,0,0,292,2024-08-28,active,175
+LST00433,AGT074,Rumah,Jl. Dago No. 93,Yogyakarta,DI Yogyakarta,8774000000,147,2,2,242,2023-05-18,sold,39
+LST00434,AGT136,Rumah,Jl. Dago No. 230,Surabaya,Jawa Timur,7409000000,463,3,1,572,2024-07-28,active,265
+LST00435,AGT093,Rumah,Jl. Cempaka No. 22,Jakarta Utara,DKI Jakarta,987000000,286,3,1,469,2023-11-24,sold,81
+LST00436,AGT103,Ruko,Jl. Cendana No. 232,Surabaya,Jawa Timur,3492000000,302,0,1,352,2022-04-29,active,324
+LST00437,AGT134,Rumah,Jl. Kemang Raya No. 233,Jakarta Barat,DKI Jakarta,5345000000,274,5,5,351,2023-12-06,sold,3
+LST00438,AGT072,Kavling,Jl. Riau No. 115,Tangerang,Banten,2361000000,392,0,0,392,2023-02-25,sold,140
+LST00439,AGT114,Rumah,Perumahan Citra Garden Blok C13 No. 93,Jakarta Selatan,DKI Jakarta,11927000000,236,5,2,313,2022-09-16,active,267
+LST00440,AGT139,Apartemen,Jl. Mahoni No. 6,Bali,Bali,2675000000,76,1,2,,2022-02-27,active,277
+LST00441,AGT067,Rumah,Perumahan Griya Asri Blok G12 No. 34,Jakarta Barat,DKI Jakarta,4454000000,486,4,4,615,2024-11-05,sold,91
+LST00442,AGT032,Rumah,Jl. Mawar No. 117,Jakarta Timur,DKI Jakarta,1282000000,447,2,2,523,2023-11-26,active,121
+LST00443,AGT149,Vila,Perumahan Kelapa Gading Blok F26 No. 92,Jakarta Barat,DKI Jakarta,19533000000,471,7,8,640,2022-10-14,sold,97
+LST00444,AGT134,Apartemen,Jl. Asia Afrika No. 117,Jakarta Selatan,DKI Jakarta,2378000000,48,3,3,,2022-07-20,sold,38
+LST00445,AGT109,Rumah,Jl. Sakura No. 122,Bandung,Jawa Barat,14073000000,270,2,1,285,2023-03-16,sold,115
+LST00446,AGT020,Rumah,Jl. Riau No. 224,Surabaya,Jawa Timur,6550000000,406,6,4,556,2023-06-25,sold,150
+LST00447,AGT128,Kavling,Jl. Malioboro No. 188,Bali,Bali,2806000000,296,0,0,296,2024-05-03,sold,42
+LST00448,AGT037,Rumah,Jl. Solo No. 221,Jakarta Selatan,DKI Jakarta,8786000000,125,5,4,158,2024-12-19,active,61
+LST00449,AGT055,Apartemen,Jl. Asia Afrika No. 236,Yogyakarta,DI Yogyakarta,4080000000,143,1,1,,2022-09-01,sold,155
+LST00450,AGT105,Rumah,Jl. Tulip No. 96,Surabaya,Jawa Timur,2307000000,121,4,3,131,2023-09-17,sold,96
+LST00451,AGT078,Vila,Jl. Dago No. 13,Yogyakarta,DI Yogyakarta,10633000000,398,3,2,520,2023-09-17,active,146
+LST00452,AGT056,Apartemen,Jl. Cempaka No. 223,Depok,Jawa Barat,1849000000,147,1,1,,2022-04-02,active,214
+LST00453,AGT124,Apartemen,Jl. Basuki Rahmat No. 214,Jakarta Selatan,DKI Jakarta,2887000000,166,4,2,,2022-09-29,active,391
+LST00454,AGT036,Rumah,Jl. Kemang Raya No. 23,Depok,Jawa Barat,8770000000,385,5,4,555,2024-04-18,active,199
+LST00455,AGT060,Rumah,Jl. Gatot Subroto No. 166,Bekasi,Jawa Barat,6978000000,233,6,1,404,2022-07-01,sold,43
+LST00456,AGT007,Kavling,Jl. Cikini No. 144,Tangerang,Banten,2542000000,402,0,0,402,2022-09-11,sold,165
+LST00457,AGT144,Ruko,Jl. Kenanga No. 246,Jakarta Selatan,DKI Jakarta,2195000000,178,0,3,247,2024-12-04,sold,49
+LST00458,AGT122,Ruko,Jl. Jati No. 247,Jakarta Selatan,DKI Jakarta,9035000000,89,0,1,173,2022-02-08,active,141
+LST00459,AGT053,Kavling,Jl. Pahlawan No. 22,Bandung,Jawa Barat,1204000000,441,0,0,441,2024-12-28,sold,156
+LST00460,AGT083,Apartemen,Jl. Melati No. 88,Tangerang,Banten,3641000000,172,1,2,,2024-06-14,active,93
+LST00461,AGT107,Apartemen,Jl. Tulip No. 26,Jakarta Selatan,DKI Jakarta,547000000,157,3,2,,2025-01-14,sold,44
+LST00462,AGT074,Apartemen,Jl. Dago No. 174,Jakarta Barat,DKI Jakarta,1529000000,68,3,1,,2022-12-13,sold,16
+LST00463,AGT084,Rumah,Perumahan Bintaro Sektor Blok D29 No. 42,Yogyakarta,DI Yogyakarta,3473000000,73,2,2,172,2023-06-13,active,193
+LST00464,AGT031,Rumah,Perumahan Citra Garden Blok G17 No. 50,Jakarta Barat,DKI Jakarta,1349000000,163,3,3,313,2022-08-24,sold,69
+LST00465,AGT016,Apartemen,Jl. Dago No. 163,Bali,Bali,2957000000,140,4,1,,2023-04-24,sold,5
+LST00466,AGT069,Apartemen,Jl. Sakura No. 78,Depok,Jawa Barat,4888000000,172,1,1,,2024-04-13,active,229
+LST00467,AGT022,Ruko,Jl. Mahoni No. 201,Jakarta Utara,DKI Jakarta,8999000000,184,0,1,231,2023-05-18,sold,138
+LST00468,AGT109,Rumah,Jl. Diponegoro No. 168,Jakarta Barat,DKI Jakarta,9595000000,291,2,1,409,2022-12-09,sold,1
+LST00469,AGT016,Apartemen,Jl. Wolter Monginsidi No. 216,Malang,Jawa Timur,4300000000,91,3,3,,2023-03-12,sold,150
+LST00470,AGT131,Ruko,Jl. Cempaka No. 77,Jakarta Timur,DKI Jakarta,5409000000,103,0,1,197,2022-07-03,sold,102
+LST00471,AGT032,Kavling,Jl. Gatot Subroto No. 225,Bekasi,Jawa Barat,772000000,451,0,0,451,2024-06-03,off_market,137
+LST00472,AGT130,Apartemen,Jl. Pahlawan No. 70,Bekasi,Jawa Barat,2957000000,196,3,3,,2023-05-19,sold,170
+LST00473,AGT083,Apartemen,Jl. Sakura No. 166,Jakarta Timur,DKI Jakarta,3148000000,75,4,3,,2022-01-05,off_market,273
+LST00474,AGT002,Rumah,Jl. Malioboro No. 196,Jakarta Pusat,DKI Jakarta,656000000,404,3,2,546,2024-03-15,active,276
+LST00475,AGT021,Rumah,Jl. Tulip No. 91,Tangerang,Banten,13399000000,392,2,1,563,2024-02-10,sold,154
+LST00476,AGT092,Apartemen,Jl. Pinang No. 114,Surabaya,Jawa Timur,3518000000,67,1,1,,2022-01-20,active,114
+LST00477,AGT006,Vila,Jl. Cikini No. 207,Surabaya,Jawa Timur,10212000000,498,5,4,594,2023-03-29,sold,60
+LST00478,AGT127,Rumah,Jl. Kelapa No. 2,Jakarta Barat,DKI Jakarta,6447000000,78,4,4,258,2023-02-06,off_market,232
+LST00479,AGT029,Rumah,Perumahan BSD Blok F24 No. 73,Jakarta Barat,DKI Jakarta,14752000000,202,6,5,328,2022-12-26,sold,17
+LST00480,AGT033,Rumah,Jl. Kaliurang No. 187,Jakarta Selatan,DKI Jakarta,12722000000,93,3,2,238,2023-07-16,sold,50
+LST00481,AGT006,Rumah,Jl. Tunjungan No. 1,Medan,Sumatera Utara,11853000000,407,6,5,471,2024-05-24,active,329
+LST00482,AGT014,Rumah,Perumahan Citra Garden Blok D16 No. 47,Bekasi,Jawa Barat,14489000000,225,5,4,295,2024-11-25,sold,12
+LST00483,AGT058,Apartemen,Jl. Mawar No. 101,Tangerang,Banten,734000000,93,4,3,,2023-02-03,sold,86
+LST00484,AGT021,Ruko,Jl. Sudirman No. 51,Jakarta Utara,DKI Jakarta,1215000000,195,0,3,249,2022-12-03,sold,85
+LST00485,AGT080,Rumah,Jl. Melati No. 152,Surabaya,Jawa Timur,1529000000,380,2,1,502,2023-11-16,active,129
+LST00486,AGT064,Rumah,Jl. Kaliurang No. 204,Bali,Bali,2266000000,302,3,2,315,2023-04-30,active,38
+LST00487,AGT113,Rumah,Perumahan Griya Asri Blok A13 No. 41,Bali,Bali,13018000000,108,5,5,139,2022-05-14,sold,33
+LST00488,AGT016,Apartemen,Jl. Cempaka No. 27,Jakarta Barat,DKI Jakarta,3970000000,36,3,3,,2022-04-25,active,287
+LST00489,AGT014,Vila,Jl. Pisang No. 222,Jakarta Selatan,DKI Jakarta,10663000000,345,6,5,711,2022-01-22,sold,117
+LST00490,AGT099,Rumah,Perumahan Pakuwon Blok F26 No. 4,Bali,Bali,8105000000,467,5,5,625,2024-07-18,active,265
+LST00491,AGT085,Rumah,Jl. Cempaka No. 152,Yogyakarta,DI Yogyakarta,10130000000,158,2,1,161,2023-02-01,active,294
+LST00492,AGT033,Rumah,Jl. Pahlawan No. 48,Jakarta Barat,DKI Jakarta,10942000000,320,4,3,427,2023-05-13,sold,36
+LST00493,AGT012,Rumah,Jl. Wolter Monginsidi No. 80,Surabaya,Jawa Timur,1491000000,125,4,4,256,2025-01-13,off_market,104
+LST00494,AGT038,Ruko,Jl. Mawar No. 133,Jakarta Timur,DKI Jakarta,8492000000,238,0,3,281,2022-10-24,active,30
+LST00495,AGT061,Apartemen,Jl. Pinang No. 164,Depok,Jawa Barat,4504000000,165,1,2,,2023-02-17,sold,18
+LST00496,AGT088,Apartemen,Jl. Tunjungan No. 154,Depok,Jawa Barat,1901000000,192,4,3,,2023-11-10,active,297
+LST00497,AGT145,Vila,Cluster Anggrek Blok G30 No. 6,Depok,Jawa Barat,11998000000,465,5,5,683,2024-10-12,sold,57
+LST00498,AGT001,Apartemen,Jl. Sudirman No. 124,Tangerang,Banten,2177000000,199,2,2,,2023-11-10,sold,97
+LST00499,AGT053,Apartemen,Jl. Wolter Monginsidi No. 8,Surabaya,Jawa Timur,3629000000,69,1,2,,2022-08-24,sold,37
+LST00500,AGT075,Rumah,Jl. Pinang No. 51,Surabaya,Jawa Timur,7715000000,159,6,3,170,2023-08-05,active,90
+LST00501,AGT057,Apartemen,Jl. Pinang No. 6,Surabaya,Jawa Timur,2496000000,66,3,3,,2022-12-27,sold,68
+LST00502,AGT026,Rumah,Jl. Tulip No. 87,Jakarta Barat,DKI Jakarta,843000000,485,3,2,652,2023-03-07,active,157
+LST00503,AGT117,Rumah,Jl. Pemuda No. 225,Bandung,Jawa Barat,4434000000,249,4,2,383,2022-05-14,active,61
+LST00504,AGT037,Apartemen,Jl. Asia Afrika No. 82,Depok,Jawa Barat,1421000000,70,2,3,,2024-05-29,sold,163
+LST00505,AGT063,Rumah,Jl. Diponegoro No. 203,Medan,Sumatera Utara,1256000000,450,6,5,498,2022-11-01,sold,84
+LST00506,AGT064,Rumah,Jl. Malioboro No. 54,Depok,Jawa Barat,1372000000,382,4,2,512,2022-06-16,active,241
+LST00507,AGT017,Rumah,Jl. Tunjungan No. 46,Jakarta Timur,DKI Jakarta,3243000000,320,5,5,415,2023-10-22,active,365
+LST00508,AGT096,Ruko,Jl. Riau No. 164,Jakarta Timur,DKI Jakarta,9409000000,327,0,3,390,2022-03-16,active,107
+LST00509,AGT057,Rumah,Cluster Mawar Blok E6 No. 48,Bali,Bali,3825000000,291,3,2,346,2023-06-06,sold,141
+LST00510,AGT022,Rumah,Jl. Pisang No. 150,Jakarta Utara,DKI Jakarta,2700000000,444,2,2,557,2022-03-26,sold,120
+LST00511,AGT132,Ruko,Jl. Asia Afrika No. 206,Jakarta Selatan,DKI Jakarta,6311000000,298,0,2,357,2024-10-15,sold,82
+LST00512,AGT070,Rumah,Perumahan Taman Mas Blok C29 No. 11,Jakarta Timur,DKI Jakarta,6764000000,72,3,2,131,2023-08-27,active,257
+LST00513,AGT132,Rumah,Perumahan Taman Mas Blok C2 No. 70,Surabaya,Jawa Timur,9456000000,389,2,2,447,2023-02-15,sold,86
+LST00514,AGT051,Apartemen,Jl. Gatot Subroto No. 49,Jakarta Selatan,DKI Jakarta,3047000000,86,3,3,,2022-10-10,active,386
+LST00515,AGT140,Rumah,Jl. Riau No. 243,Jakarta Selatan,DKI Jakarta,4778000000,64,4,3,152,2024-04-10,active,297
+LST00516,AGT004,Ruko,Jl. Kelapa No. 122,Surabaya,Jawa Timur,8533000000,342,0,1,392,2023-04-24,active,265
+LST00517,AGT142,Rumah,Perumahan BSD Blok D25 No. 90,Surabaya,Jawa Timur,12912000000,299,5,3,320,2024-05-05,sold,54
+LST00518,AGT113,Apartemen,Jl. Sakura No. 79,Tangerang,Banten,4036000000,164,1,2,,2022-01-20,sold,128
+LST00519,AGT091,Rumah,Jl. Cikini No. 84,Bogor,Jawa Barat,6067000000,175,5,4,350,2022-02-17,sold,146
+LST00520,AGT009,Rumah,Cluster Mawar Blok A18 No. 50,Jakarta Barat,DKI Jakarta,2779000000,138,4,4,235,2023-01-21,active,244
+LST00521,AGT028,Ruko,Jl. Dahlia No. 44,Depok,Jawa Barat,6187000000,371,0,2,452,2022-08-02,sold,173
+LST00522,AGT142,Ruko,Jl. Jati No. 51,Jakarta Timur,DKI Jakarta,3710000000,96,0,3,173,2022-05-23,active,198
+LST00523,AGT073,Ruko,Jl. Tunjungan No. 15,Jakarta Selatan,DKI Jakarta,4173000000,199,0,2,283,2024-01-25,sold,133
+LST00524,AGT003,Rumah,Jl. Sakura No. 138,Surabaya,Jawa Timur,3315000000,227,5,4,267,2024-05-06,sold,123
+LST00525,AGT018,Rumah,Jl. Basuki Rahmat No. 41,Surabaya,Jawa Timur,6873000000,165,3,1,244,2023-09-28,active,301
+LST00526,AGT052,Rumah,Perumahan Bintaro Sektor Blok D3 No. 52,Jakarta Selatan,DKI Jakarta,8732000000,426,5,3,477,2023-05-21,active,270
+LST00527,AGT085,Kavling,Jl. Anggrek No. 189,Tangerang,Banten,2531000000,331,0,0,331,2022-07-06,sold,74
+LST00528,AGT117,Rumah,Jl. Jati No. 107,Bandung,Jawa Barat,6181000000,418,4,4,574,2023-05-26,active,92
+LST00529,AGT111,Ruko,Jl. Flamboyan No. 101,Tangerang,Banten,8301000000,276,0,3,299,2022-03-31,sold,62
+LST00530,AGT041,Rumah,Jl. Kelapa No. 233,Bandung,Jawa Barat,4985000000,381,6,3,551,2024-10-07,sold,106
+LST00531,AGT142,Rumah,Jl. Kemang Raya No. 105,Surabaya,Jawa Timur,2486000000,248,2,1,377,2024-07-12,active,85
+LST00532,AGT065,Apartemen,Jl. Tunjungan No. 98,Surabaya,Jawa Timur,2048000000,151,1,2,,2023-12-05,sold,103
+LST00533,AGT050,Rumah,Jl. Sakura No. 84,Surabaya,Jawa Timur,6999000000,79,2,2,108,2024-08-08,active,249
+LST00534,AGT119,Apartemen,Jl. Sakura No. 121,Tangerang,Banten,908000000,43,2,3,,2023-07-26,active,83
+LST00535,AGT044,Vila,Perumahan Graha Famili Blok D6 No. 10,Surabaya,Jawa Timur,1591000000,460,3,2,660,2022-01-23,active,347
+LST00536,AGT070,Rumah,Jl. Kelapa No. 114,Bali,Bali,3014000000,285,4,2,340,2022-04-08,active,326
+LST00537,AGT134,Apartemen,Jl. Mawar No. 13,Jakarta Timur,DKI Jakarta,1192000000,121,3,2,,2024-02-12,sold,52
+LST00538,AGT064,Kavling,Perumahan Griya Asri Blok D1 No. 2,Jakarta Pusat,DKI Jakarta,1734000000,202,0,0,202,2023-11-22,sold,50
+LST00539,AGT017,Rumah,Perumahan Citra Garden Blok A27 No. 42,Bandung,Jawa Barat,4113000000,109,3,3,151,2023-10-23,active,288
+LST00540,AGT049,Kavling,Jl. Riau No. 241,Bali,Bali,2758000000,186,0,0,186,2024-05-26,sold,31
+LST00541,AGT060,Vila,Perumahan Pakuwon Blok C1 No. 50,Medan,Sumatera Utara,8005000000,204,5,5,342,2023-03-12,sold,118
+LST00542,AGT057,Vila,Perumahan Taman Mas Blok B14 No. 39,Jakarta Selatan,DKI Jakarta,3163000000,486,5,6,855,2024-10-20,active,53
+LST00543,AGT138,Ruko,Jl. Braga No. 174,Bandung,Jawa Barat,3609000000,208,0,1,284,2022-09-30,active,171
+LST00544,AGT045,Rumah,Perumahan Pondok Indah Blok E15 No. 49,Tangerang,Banten,10909000000,449,4,4,466,2024-11-12,sold,164
+LST00545,AGT060,Rumah,Jl. Tulip No. 80,Jakarta Barat,DKI Jakarta,8748000000,360,2,1,365,2023-04-30,sold,110
+LST00546,AGT063,Rumah,Jl. Pinang No. 39,Bekasi,Jawa Barat,10654000000,100,2,1,195,2024-02-09,active,105
+LST00547,AGT010,Vila,Perumahan Kelapa Gading Blok C21 No. 98,Jakarta Selatan,DKI Jakarta,8800000000,456,6,7,955,2022-03-23,active,267
+LST00548,AGT107,Rumah,Jl. Senopati No. 88,Jakarta Barat,DKI Jakarta,11117000000,476,4,1,534,2023-05-12,sold,53
+LST00549,AGT139,Rumah,Jl. Braga No. 134,Jakarta Barat,DKI Jakarta,1385000000,400,3,3,578,2023-10-21,off_market,123
+LST00550,AGT114,Rumah,Jl. Kenanga No. 163,Jakarta Selatan,DKI Jakarta,10818000000,63,2,2,80,2022-10-17,active,105
+LST00551,AGT033,Apartemen,Jl. Pemuda No. 186,Tangerang,Banten,1101000000,66,2,1,,2024-08-14,sold,80
+LST00552,AGT043,Kavling,Jl. Sudirman No. 78,Tangerang,Banten,1009000000,205,0,0,205,2023-08-08,sold,148
+LST00553,AGT115,Rumah,Jl. Asia Afrika No. 102,Surabaya,Jawa Timur,10913000000,163,4,4,183,2024-02-13,sold,43
+LST00554,AGT121,Kavling,Jl. Pemuda No. 195,Medan,Sumatera Utara,2007000000,296,0,0,296,2022-11-16,active,247
+LST00555,AGT006,Apartemen,Jl. Cendana No. 142,Depok,Jawa Barat,3474000000,131,1,2,,2022-12-26,sold,66
+LST00556,AGT098,Apartemen,Jl. Basuki Rahmat No. 19,Bandung,Jawa Barat,4148000000,100,4,2,,2023-11-14,sold,35
+LST00557,AGT121,Ruko,Jl. Solo No. 187,Bali,Bali,4006000000,159,0,1,159,2024-02-06,sold,126
+LST00558,AGT104,Rumah,Perumahan Pondok Indah Blok A14 No. 5,Bandung,Jawa Barat,7312000000,262,4,4,387,2022-09-12,sold,99
+LST00559,AGT145,Rumah,Jl. Wolter Monginsidi No. 131,Medan,Sumatera Utara,3160000000,159,5,3,356,2024-09-27,active,326
+LST00560,AGT095,Apartemen,Jl. Sudirman No. 123,Jakarta Pusat,DKI Jakarta,822000000,188,4,2,,2022-03-12,sold,93
+LST00561,AGT008,Apartemen,Jl. Sudirman No. 155,Jakarta Barat,DKI Jakarta,1561000000,88,4,3,,2022-11-27,active,7
+LST00562,AGT030,Kavling,Jl. Braga No. 102,Depok,Jawa Barat,578000000,409,0,0,409,2022-06-14,off_market,295
+LST00563,AGT049,Apartemen,Jl. Solo No. 248,Jakarta Pusat,DKI Jakarta,3814000000,64,4,2,,2024-12-27,sold,169
+LST00564,AGT098,Rumah,Jl. Wolter Monginsidi No. 209,Jakarta Barat,DKI Jakarta,10102000000,217,5,1,244,2022-10-20,active,138
+LST00565,AGT054,Rumah,Jl. Mawar No. 25,Malang,Jawa Timur,12759000000,263,4,1,306,2022-05-24,sold,179
+LST00566,AGT107,Apartemen,Jl. Jati No. 96,Bali,Bali,4650000000,128,3,3,,2023-01-17,sold,35
+LST00567,AGT051,Apartemen,Jl. Kelapa No. 48,Jakarta Selatan,DKI Jakarta,4335000000,68,1,2,,2023-02-16,active,31
+LST00568,AGT047,Kavling,Jl. Dago No. 113,Semarang,Jawa Tengah,985000000,212,0,0,212,2022-08-12,off_market,115
+LST00569,AGT021,Ruko,Jl. Senopati No. 8,Depok,Jawa Barat,5602000000,123,0,2,138,2023-04-26,active,245
+LST00570,AGT125,Vila,Jl. Anggrek No. 25,Bekasi,Jawa Barat,4303000000,154,3,3,588,2023-03-09,active,268
+LST00571,AGT002,Kavling,Jl. Gatot Subroto No. 239,Jakarta Utara,DKI Jakarta,1738000000,388,0,0,388,2024-09-22,active,243
+LST00572,AGT087,Kavling,Perumahan Pakuwon Blok C11 No. 31,Surabaya,Jawa Timur,2675000000,299,0,0,299,2024-01-10,sold,171
+LST00573,AGT103,Vila,Perumahan Taman Mas Blok A15 No. 90,Jakarta Pusat,DKI Jakarta,13400000000,462,3,3,959,2024-04-02,active,372
+LST00574,AGT036,Rumah,Jl. Sudirman No. 95,Tangerang,Banten,920000000,368,2,2,547,2024-07-14,active,317
+LST00575,AGT122,Vila,Jl. Kemang Raya No. 5,Bali,Bali,17872000000,361,4,3,737,2024-01-08,sold,12
+LST00576,AGT084,Apartemen,Jl. Dahlia No. 90,Depok,Jawa Barat,3989000000,81,4,2,,2024-05-26,active,244
+LST00577,AGT026,Apartemen,Jl. Kaliurang No. 225,Jakarta Selatan,DKI Jakarta,3502000000,97,2,3,,2024-10-30,sold,9
+LST00578,AGT033,Rumah,Jl. Tunjungan No. 44,Surabaya,Jawa Timur,8658000000,467,2,2,639,2024-07-02,sold,30
+LST00579,AGT124,Ruko,Jl. Dahlia No. 28,Bekasi,Jawa Barat,9658000000,203,0,1,230,2024-06-09,sold,8
+LST00580,AGT042,Ruko,Jl. Basuki Rahmat No. 244,Yogyakarta,DI Yogyakarta,6149000000,276,0,2,304,2022-09-10,active,341
+LST00581,AGT035,Apartemen,Jl. Senopati No. 224,Semarang,Jawa Tengah,4728000000,184,4,1,,2023-04-04,active,295
+LST00582,AGT017,Apartemen,Jl. Pemuda No. 207,Bali,Bali,3161000000,118,4,3,,2023-04-23,sold,58
+LST00583,AGT067,Rumah,Perumahan Pondok Indah Blok B24 No. 15,Jakarta Timur,DKI Jakarta,2395000000,208,2,1,230,2024-01-24,sold,33
+LST00584,AGT081,Kavling,Jl. Cikini No. 16,Surabaya,Jawa Timur,1757000000,375,0,0,375,2025-01-01,active,98
+LST00585,AGT100,Rumah,Jl. Pisang No. 28,Surabaya,Jawa Timur,7441000000,223,4,2,356,2024-03-20,sold,3
+LST00586,AGT138,Kavling,Perumahan Kelapa Gading Blok G8 No. 64,Bekasi,Jawa Barat,2086000000,241,0,0,241,2024-07-22,active,76
+LST00587,AGT073,Kavling,Jl. Anggrek No. 154,Surabaya,Jawa Timur,797000000,462,0,0,462,2023-10-18,active,159
+LST00588,AGT129,Vila,Jl. Malioboro No. 75,Tangerang,Banten,5045000000,290,7,7,663,2024-02-11,sold,16
+LST00589,AGT086,Apartemen,Jl. Jati No. 220,Jakarta Timur,DKI Jakarta,1600000000,75,2,3,,2024-09-25,active,373
+LST00590,AGT101,Rumah,Cluster Mawar Blok F16 No. 45,Tangerang,Banten,5400000000,477,3,1,617,2024-03-12,active,201
+LST00591,AGT019,Rumah,Jl. Riau No. 25,Jakarta Barat,DKI Jakarta,9148000000,432,4,3,610,2022-09-26,sold,83
+LST00592,AGT149,Rumah,Jl. Sakura No. 114,Jakarta Selatan,DKI Jakarta,14686000000,472,2,2,589,2024-09-15,sold,75
+LST00593,AGT038,Rumah,Perumahan Graha Famili Blok G19 No. 14,Yogyakarta,DI Yogyakarta,3936000000,171,3,3,337,2022-10-30,sold,97
+LST00594,AGT110,Apartemen,Jl. Jati No. 242,Bekasi,Jawa Barat,1728000000,36,1,2,,2022-04-18,active,61
+LST00595,AGT132,Apartemen,Jl. Riau No. 63,Surabaya,Jawa Timur,3122000000,173,4,1,,2022-03-11,off_market,90
+LST00596,AGT062,Rumah,Jl. Dahlia No. 200,Depok,Jawa Barat,6998000000,310,4,2,477,2024-08-07,sold,167
+LST00597,AGT098,Rumah,Perumahan Taman Mas Blok A16 No. 83,Jakarta Timur,DKI Jakarta,5009000000,383,5,3,385,2024-11-09,sold,58
+LST00598,AGT006,Rumah,Jl. Flamboyan No. 204,Jakarta Selatan,DKI Jakarta,10114000000,353,6,4,423,2023-01-06,sold,99
+LST00599,AGT124,Rumah,Perumahan Cibubur Country Blok A23 No. 69,Bandung,Jawa Barat,11061000000,419,5,3,565,2023-01-14,sold,104
+LST00600,AGT006,Apartemen,Jl. Tulip No. 193,Surabaya,Jawa Timur,3575000000,164,4,1,,2023-03-01,active,338
+LST00601,AGT031,Rumah,Jl. Kemang Raya No. 32,Medan,Sumatera Utara,3460000000,366,3,1,508,2022-03-22,sold,33
+LST00602,AGT148,Apartemen,Jl. Anggrek No. 22,Semarang,Jawa Tengah,2039000000,189,2,1,,2022-09-13,sold,130
+LST00603,AGT077,Rumah,Perumahan Kelapa Gading Blok A17 No. 38,Bandung,Jawa Barat,6456000000,338,3,2,506,2024-12-29,sold,114
+LST00604,AGT036,Vila,Jl. Solo No. 54,Jakarta Pusat,DKI Jakarta,19909000000,401,5,6,631,2022-07-22,active,340
+LST00605,AGT012,Rumah,Jl. Kelapa No. 246,Jakarta Pusat,DKI Jakarta,4384000000,78,3,1,154,2022-10-02,sold,155
+LST00606,AGT142,Ruko,Jl. Pemuda No. 20,Jakarta Selatan,DKI Jakarta,4339000000,382,0,2,417,2025-01-31,active,131
+LST00607,AGT067,Apartemen,Jl. Thamrin No. 174,Jakarta Utara,DKI Jakarta,3477000000,188,2,2,,2024-05-21,active,356
+LST00608,AGT037,Ruko,Jl. Pinang No. 183,Yogyakarta,DI Yogyakarta,9580000000,184,0,1,264,2024-02-02,active,289
+LST00609,AGT131,Vila,Jl. Melati No. 247,Depok,Jawa Barat,6375000000,364,4,4,817,2023-05-22,active,40
+LST00610,AGT070,Ruko,Jl. Cempaka No. 85,Bali,Bali,2841000000,352,0,1,439,2022-07-02,sold,93
+LST00611,AGT086,Rumah,Cluster Mawar Blok B13 No. 14,Tangerang,Banten,13247000000,199,3,1,269,2022-09-10,sold,45
+LST00612,AGT135,Rumah,Jl. Diponegoro No. 142,Depok,Jawa Barat,12432000000,216,6,4,240,2023-07-10,sold,156
+LST00613,AGT026,Rumah,Perumahan Graha Famili Blok F26 No. 69,Surabaya,Jawa Timur,1285000000,147,4,4,193,2024-04-04,sold,123
+LST00614,AGT033,Apartemen,Jl. Braga No. 146,Bali,Bali,2472000000,24,2,3,,2023-07-02,active,28
+LST00615,AGT095,Ruko,Jl. Pahlawan No. 91,Bandung,Jawa Barat,4881000000,391,0,2,481,2024-08-17,sold,129
+LST00616,AGT074,Apartemen,Jl. Dahlia No. 243,Jakarta Pusat,DKI Jakarta,2609000000,131,2,2,,2023-09-18,active,209
+LST00617,AGT081,Ruko,Jl. Dahlia No. 43,Jakarta Selatan,DKI Jakarta,2276000000,120,0,1,213,2022-04-28,sold,22
+LST00618,AGT074,Rumah,Jl. Sakura No. 123,Jakarta Selatan,DKI Jakarta,9579000000,312,2,2,485,2024-10-16,sold,132
+LST00619,AGT137,Rumah,Perumahan Graha Famili Blok A23 No. 55,Jakarta Selatan,DKI Jakarta,11934000000,123,5,1,280,2024-12-30,active,384
+LST00620,AGT089,Rumah,Cluster Anggrek Blok B22 No. 98,Tangerang,Banten,4501000000,438,6,6,593,2024-12-08,sold,58
+LST00621,AGT045,Rumah,Jl. Pemuda No. 127,Bandung,Jawa Barat,1730000000,247,3,3,337,2024-02-16,active,88
+LST00622,AGT096,Rumah,Jl. Diponegoro No. 77,Bandung,Jawa Barat,2355000000,233,3,3,429,2024-09-16,active,151
+LST00623,AGT068,Rumah,Jl. Solo No. 212,Jakarta Utara,DKI Jakarta,3990000000,61,6,4,116,2022-03-14,active,238
+LST00624,AGT125,Ruko,Jl. Cikini No. 91,Bekasi,Jawa Barat,1742000000,262,0,1,340,2022-08-08,active,3
+LST00625,AGT090,Kavling,Perumahan Taman Mas Blok D16 No. 26,Tangerang,Banten,962000000,285,0,0,285,2022-06-23,active,271
+LST00626,AGT132,Apartemen,Jl. Thamrin No. 58,Jakarta Barat,DKI Jakarta,1609000000,127,1,2,,2024-08-21,sold,102
+LST00627,AGT096,Kavling,Jl. Jati No. 138,Jakarta Selatan,DKI Jakarta,1425000000,266,0,0,266,2023-07-06,active,56
+LST00628,AGT113,Apartemen,Jl. Mawar No. 92,Jakarta Selatan,DKI Jakarta,3949000000,63,2,2,,2023-02-11,sold,29
+LST00629,AGT049,Rumah,Jl. Anggrek No. 42,Jakarta Selatan,DKI Jakarta,5167000000,80,3,2,187,2023-02-12,sold,123
+LST00630,AGT069,Ruko,Jl. Sakura No. 84,Jakarta Timur,DKI Jakarta,2746000000,295,0,2,365,2024-03-29,active,257
+LST00631,AGT100,Kavling,Jl. Melati No. 33,Yogyakarta,DI Yogyakarta,738000000,136,0,0,136,2022-11-15,active,177
+LST00632,AGT129,Rumah,Jl. Pemuda No. 250,Bekasi,Jawa Barat,723000000,452,3,1,625,2022-01-17,sold,112
+LST00633,AGT123,Kavling,Jl. Pemuda No. 64,Yogyakarta,DI Yogyakarta,1385000000,224,0,0,224,2022-11-09,active,374
+LST00634,AGT131,Kavling,Perumahan Taman Mas Blok G9 No. 90,Jakarta Selatan,DKI Jakarta,965000000,207,0,0,207,2023-05-22,active,342
+LST00635,AGT110,Kavling,Jl. Flamboyan No. 180,Jakarta Selatan,DKI Jakarta,1012000000,322,0,0,322,2024-10-25,active,313
+LST00636,AGT047,Rumah,Perumahan Taman Mas Blok B13 No. 5,Bali,Bali,3591000000,497,6,6,659,2023-07-15,active,99
+LST00637,AGT038,Apartemen,Jl. Braga No. 105,Depok,Jawa Barat,3842000000,26,2,1,,2024-12-11,sold,79
+LST00638,AGT060,Rumah,Jl. Kenanga No. 78,Depok,Jawa Barat,4133000000,232,5,4,247,2022-08-14,sold,69
+LST00639,AGT094,Vila,Jl. Jati No. 11,Surabaya,Jawa Timur,10193000000,329,6,5,542,2022-01-02,active,27
+LST00640,AGT083,Rumah,Perumahan Bintaro Sektor Blok C16 No. 47,Semarang,Jawa Tengah,3973000000,206,5,3,361,2023-11-16,active,156
+LST00641,AGT029,Kavling,Perumahan Citra Garden Blok G28 No. 17,Surabaya,Jawa Timur,596000000,422,0,0,422,2023-11-10,active,185
+LST00642,AGT093,Rumah,Perumahan Pakuwon Blok C7 No. 75,Jakarta Barat,DKI Jakarta,12672000000,458,6,5,612,2024-02-26,active,45
+LST00643,AGT028,Rumah,Jl. Pinang No. 50,Semarang,Jawa Tengah,2637000000,382,6,1,392,2024-07-01,active,51
+LST00644,AGT020,Rumah,Jl. Pinang No. 137,Bali,Bali,9455000000,376,4,3,561,2022-11-11,sold,12
+LST00645,AGT033,Kavling,Jl. Thamrin No. 229,Jakarta Selatan,DKI Jakarta,985000000,294,0,0,294,2023-12-13,sold,94
+LST00646,AGT115,Apartemen,Jl. Solo No. 203,Jakarta Timur,DKI Jakarta,1311000000,133,1,2,,2022-02-14,sold,43
+LST00647,AGT071,Rumah,Perumahan Graha Famili Blok B24 No. 51,Yogyakarta,DI Yogyakarta,11914000000,126,4,1,270,2024-10-10,active,351
+LST00648,AGT137,Rumah,Jl. Braga No. 144,Surabaya,Jawa Timur,14758000000,322,2,1,434,2024-03-10,active,206
+LST00649,AGT070,Rumah,Perumahan Graha Famili Blok A29 No. 66,Jakarta Selatan,DKI Jakarta,3890000000,154,2,1,300,2024-07-21,active,258
+LST00650,AGT135,Kavling,Jl. Diponegoro No. 182,Yogyakarta,DI Yogyakarta,1260000000,235,0,0,235,2023-07-04,sold,142
+LST00651,AGT031,Rumah,Perumahan Bintaro Sektor Blok C30 No. 18,Bandung,Jawa Barat,3303000000,174,2,1,248,2023-07-08,active,27
+LST00652,AGT064,Apartemen,Jl. Asia Afrika No. 84,Jakarta Barat,DKI Jakarta,2070000000,158,1,1,,2022-06-20,sold,141
+LST00653,AGT068,Ruko,Jl. Kenanga No. 161,Tangerang,Banten,2989000000,289,0,3,326,2022-01-22,sold,92
+LST00654,AGT057,Rumah,Jl. Flamboyan No. 185,Tangerang,Banten,12468000000,203,3,2,207,2024-02-22,sold,168
+LST00655,AGT066,Rumah,Jl. Pisang No. 84,Yogyakarta,DI Yogyakarta,14754000000,380,6,5,432,2023-07-05,sold,53
+LST00656,AGT149,Ruko,Jl. Pemuda No. 95,Depok,Jawa Barat,7279000000,159,0,2,188,2022-10-31,sold,123
+LST00657,AGT024,Rumah,Cluster Anggrek Blok F6 No. 83,Jakarta Timur,DKI Jakarta,8625000000,152,5,2,197,2023-08-01,active,11
+LST00658,AGT080,Apartemen,Jl. Cempaka No. 37,Bali,Bali,1684000000,67,4,3,,2022-05-28,active,219
+LST00659,AGT063,Ruko,Jl. Mawar No. 155,Bekasi,Jawa Barat,8255000000,286,0,1,378,2022-07-24,active,194
+LST00660,AGT099,Kavling,Jl. Anggrek No. 34,Jakarta Timur,DKI Jakarta,284000000,136,0,0,136,2023-05-24,active,395
+LST00661,AGT022,Rumah,Jl. Flamboyan No. 139,Surabaya,Jawa Timur,4885000000,133,6,1,135,2023-11-25,active,363
+LST00662,AGT022,Apartemen,Jl. Mahoni No. 79,Jakarta Selatan,DKI Jakarta,2007000000,57,4,3,,2023-11-11,sold,123
+LST00663,AGT040,Rumah,Jl. Tulip No. 6,Depok,Jawa Barat,4494000000,88,6,6,156,2022-04-02,sold,27
+LST00664,AGT140,Kavling,Jl. Dago No. 37,Bali,Bali,1415000000,132,0,0,132,2022-01-03,active,115
+LST00665,AGT007,Rumah,Jl. Pisang No. 236,Bandung,Jawa Barat,4213000000,278,5,2,368,2024-02-27,sold,176
+LST00666,AGT029,Apartemen,Jl. Diponegoro No. 92,Surabaya,Jawa Timur,4378000000,65,1,1,,2022-06-06,active,316
+LST00667,AGT086,Vila,Cluster Mawar Blok E11 No. 77,Malang,Jawa Timur,4878000000,334,3,2,693,2023-01-07,sold,174
+LST00668,AGT109,Apartemen,Jl. Wolter Monginsidi No. 225,Depok,Jawa Barat,1580000000,192,3,3,,2022-08-01,sold,70
+LST00669,AGT128,Rumah,Jl. Cendana No. 200,Jakarta Selatan,DKI Jakarta,11341000000,248,4,1,248,2022-10-28,sold,82
+LST00670,AGT038,Kavling,Jl. Basuki Rahmat No. 209,Jakarta Timur,DKI Jakarta,1799000000,308,0,0,308,2022-05-18,sold,29
+LST00671,AGT148,Rumah,Perumahan Bintaro Sektor Blok B25 No. 50,Tangerang,Banten,7503000000,432,4,2,455,2023-12-24,sold,82
+LST00672,AGT127,Kavling,Jl. Dago No. 155,Yogyakarta,DI Yogyakarta,1936000000,326,0,0,326,2023-11-14,active,71
+LST00673,AGT063,Kavling,Jl. Malioboro No. 137,Jakarta Selatan,DKI Jakarta,1769000000,294,0,0,294,2025-01-03,active,118
+LST00674,AGT099,Rumah,Jl. Pisang No. 180,Depok,Jawa Barat,1869000000,357,5,5,504,2022-06-28,active,121
+LST00675,AGT093,Vila,Jl. Sakura No. 236,Bandung,Jawa Barat,1093000000,254,3,3,589,2022-08-14,sold,16
+LST00676,AGT090,Apartemen,Jl. Dago No. 63,Bali,Bali,3306000000,57,3,2,,2023-03-08,sold,58
+LST00677,AGT015,Vila,Cluster Mawar Blok C2 No. 90,Bali,Bali,5515000000,210,4,4,635,2022-08-06,active,340
+LST00678,AGT149,Apartemen,Jl. Cendana No. 21,Tangerang,Banten,954000000,144,2,1,,2023-05-17,sold,20
+LST00679,AGT004,Apartemen,Jl. Kaliurang No. 179,Surabaya,Jawa Timur,3761000000,60,2,2,,2023-09-06,sold,121
+LST00680,AGT106,Rumah,Perumahan Griya Asri Blok F2 No. 78,Bandung,Jawa Barat,12338000000,232,5,1,305,2022-12-22,active,258
+LST00681,AGT042,Apartemen,Jl. Tunjungan No. 142,Tangerang,Banten,439000000,123,4,3,,2023-06-13,sold,147
+LST00682,AGT129,Rumah,Perumahan Taman Mas Blok E13 No. 17,Surabaya,Jawa Timur,5514000000,423,3,2,463,2023-03-10,active,206
+LST00683,AGT015,Rumah,Jl. Cempaka No. 210,Bali,Bali,4086000000,260,3,3,403,2024-08-17,active,245
+LST00684,AGT081,Apartemen,Jl. Pemuda No. 50,Surabaya,Jawa Timur,3668000000,119,2,1,,2023-07-07,active,56
+LST00685,AGT027,Ruko,Jl. Melati No. 62,Jakarta Barat,DKI Jakarta,2074000000,265,0,3,364,2023-08-01,active,84
+LST00686,AGT139,Apartemen,Jl. Cikini No. 49,Depok,Jawa Barat,1222000000,38,2,3,,2023-02-18,active,327
+LST00687,AGT009,Apartemen,Jl. Basuki Rahmat No. 12,Jakarta Selatan,DKI Jakarta,2318000000,90,1,1,,2022-04-09,sold,81
+LST00688,AGT024,Ruko,Jl. Riau No. 129,Tangerang,Banten,5856000000,84,0,2,180,2023-02-04,active,162
+LST00689,AGT101,Rumah,Cluster Mawar Blok F17 No. 13,Jakarta Utara,DKI Jakarta,12389000000,242,3,3,414,2024-10-25,sold,39
+LST00690,AGT007,Kavling,Perumahan Pondok Indah Blok G28 No. 5,Jakarta Pusat,DKI Jakarta,2605000000,487,0,0,487,2023-08-18,active,83
+LST00691,AGT039,Apartemen,Jl. Cendana No. 197,Jakarta Barat,DKI Jakarta,4143000000,42,1,1,,2022-11-26,active,257
+LST00692,AGT133,Apartemen,Jl. Asia Afrika No. 160,Bali,Bali,4636000000,109,4,1,,2024-06-01,sold,11
+LST00693,AGT100,Kavling,Jl. Cempaka No. 246,Depok,Jawa Barat,1179000000,186,0,0,186,2022-11-09,sold,146
+LST00694,AGT128,Kavling,Perumahan Kelapa Gading Blok E28 No. 12,Bali,Bali,598000000,492,0,0,492,2024-10-18,sold,25
+LST00695,AGT117,Kavling,Jl. Mahoni No. 18,Jakarta Selatan,DKI Jakarta,1484000000,166,0,0,166,2023-07-28,active,296
+LST00696,AGT094,Kavling,Perumahan Graha Famili Blok G15 No. 34,Surabaya,Jawa Timur,1647000000,125,0,0,125,2024-08-27,sold,66
+LST00697,AGT114,Rumah,Perumahan Kelapa Gading Blok D14 No. 80,Bandung,Jawa Barat,11154000000,131,2,2,141,2022-09-22,active,226
+LST00698,AGT094,Vila,Jl. Solo No. 116,Bandung,Jawa Barat,17792000000,469,5,5,561,2023-06-23,sold,175
+LST00699,AGT011,Ruko,Jl. Flamboyan No. 75,Jakarta Timur,DKI Jakarta,1734000000,205,0,3,276,2024-02-09,active,82
+LST00700,AGT146,Vila,Jl. Dahlia No. 90,Bali,Bali,14083000000,187,4,4,684,2024-08-12,active,240
+LST00701,AGT137,Rumah,Jl. Riau No. 197,Jakarta Selatan,DKI Jakarta,13906000000,298,2,1,344,2024-06-06,active,103
+LST00702,AGT103,Rumah,Jl. Basuki Rahmat No. 30,Jakarta Timur,DKI Jakarta,5885000000,93,4,3,247,2023-07-25,active,233
+LST00703,AGT010,Vila,Perumahan Pondok Indah Blok A20 No. 49,Bekasi,Jawa Barat,18861000000,229,6,5,606,2022-05-08,active,186
+LST00704,AGT111,Ruko,Jl. Pemuda No. 70,Bandung,Jawa Barat,8556000000,189,0,1,216,2023-06-01,sold,163
+LST00705,AGT046,Ruko,Jl. Cikini No. 224,Jakarta Pusat,DKI Jakarta,2169000000,152,0,1,187,2024-07-13,sold,108
+LST00706,AGT135,Apartemen,Jl. Dahlia No. 230,Yogyakarta,DI Yogyakarta,2103000000,193,3,1,,2024-05-27,sold,88
+LST00707,AGT077,Apartemen,Jl. Mahoni No. 248,Jakarta Selatan,DKI Jakarta,1697000000,72,3,2,,2024-06-13,active,182
+LST00708,AGT147,Apartemen,Jl. Cendana No. 83,Bandung,Jawa Barat,3537000000,24,2,1,,2023-10-11,sold,4
+LST00709,AGT039,Ruko,Jl. Dago No. 68,Jakarta Selatan,DKI Jakarta,8314000000,155,0,2,195,2024-12-02,sold,1
+LST00710,AGT116,Vila,Perumahan BSD Blok F7 No. 54,Bandung,Jawa Barat,5119000000,474,6,7,820,2025-01-23,sold,43
+LST00711,AGT097,Rumah,Jl. Mawar No. 95,Depok,Jawa Barat,4041000000,238,3,1,411,2024-01-16,sold,5
+LST00712,AGT078,Rumah,Jl. Dago No. 106,Surabaya,Jawa Timur,5529000000,317,2,2,483,2023-12-22,sold,91
+LST00713,AGT139,Kavling,Jl. Senopati No. 30,Tangerang,Banten,1944000000,347,0,0,347,2022-12-27,sold,118
+LST00714,AGT110,Ruko,Jl. Pemuda No. 98,Yogyakarta,DI Yogyakarta,6913000000,170,0,3,246,2023-08-07,active,338
+LST00715,AGT112,Rumah,Jl. Flamboyan No. 23,Jakarta Selatan,DKI Jakarta,10889000000,205,6,1,227,2022-02-03,sold,158
+LST00716,AGT106,Rumah,Jl. Solo No. 149,Jakarta Barat,DKI Jakarta,2198000000,314,6,5,339,2022-03-08,off_market,178
+LST00717,AGT108,Rumah,Cluster Anggrek Blok A12 No. 60,Yogyakarta,DI Yogyakarta,3971000000,174,5,5,271,2024-04-25,off_market,232
+LST00718,AGT002,Ruko,Jl. Thamrin No. 79,Surabaya,Jawa Timur,6938000000,194,0,3,230,2024-04-29,sold,173
+LST00719,AGT062,Ruko,Jl. Asia Afrika No. 216,Bogor,Jawa Barat,868000000,292,0,1,293,2024-11-28,sold,154
+LST00720,AGT082,Rumah,Jl. Riau No. 50,Bekasi,Jawa Barat,5990000000,147,6,4,208,2024-03-16,active,27
+LST00721,AGT148,Rumah,Jl. Kaliurang No. 41,Yogyakarta,DI Yogyakarta,7530000000,125,5,2,228,2024-06-14,sold,60
+LST00722,AGT026,Vila,Jl. Thamrin No. 215,Jakarta Pusat,DKI Jakarta,5139000000,408,3,4,753,2022-11-22,sold,83
+LST00723,AGT053,Apartemen,Jl. Cendana No. 8,Jakarta Pusat,DKI Jakarta,1113000000,45,1,2,,2025-01-18,sold,21
+LST00724,AGT147,Kavling,Jl. Sakura No. 117,Bali,Bali,1766000000,92,0,0,92,2024-01-04,sold,48
+LST00725,AGT062,Apartemen,Jl. Braga No. 198,Jakarta Selatan,DKI Jakarta,2166000000,98,2,3,,2023-06-18,sold,169
+LST00726,AGT014,Vila,Jl. Flamboyan No. 29,Jakarta Selatan,DKI Jakarta,10010000000,192,4,5,253,2024-07-29,sold,153
+LST00727,AGT032,Rumah,Cluster Anggrek Blok G12 No. 27,Surabaya,Jawa Timur,2254000000,132,4,3,178,2024-03-11,sold,26
+LST00728,AGT126,Vila,Perumahan Pakuwon Blok D13 No. 41,Surabaya,Jawa Timur,1719000000,361,3,3,731,2024-07-12,sold,42
+LST00729,AGT047,Rumah,Jl. Anggrek No. 31,Jakarta Selatan,DKI Jakarta,5394000000,65,3,3,210,2023-12-04,sold,89
+LST00730,AGT124,Apartemen,Jl. Tulip No. 50,Surabaya,Jawa Timur,4826000000,23,2,3,,2022-03-02,active,275
+LST00731,AGT006,Rumah,Perumahan BSD Blok A11 No. 18,Jakarta Utara,DKI Jakarta,8986000000,322,3,1,415,2023-03-27,active,43
+LST00732,AGT033,Rumah,Perumahan Citra Garden Blok F10 No. 60,Jakarta Timur,DKI Jakarta,4884000000,200,5,2,223,2024-10-12,sold,112
+LST00733,AGT132,Rumah,Jl. Gatot Subroto No. 247,Medan,Sumatera Utara,7052000000,158,4,2,208,2024-03-15,sold,27
+LST00734,AGT150,Rumah,Jl. Malioboro No. 111,Jakarta Timur,DKI Jakarta,13495000000,452,6,3,494,2024-07-02,active,217
+LST00735,AGT070,Apartemen,Jl. Wolter Monginsidi No. 96,Bandung,Jawa Barat,2961000000,181,1,2,,2022-05-12,off_market,260
+LST00736,AGT043,Rumah,Jl. Kaliurang No. 91,Bekasi,Jawa Barat,1053000000,321,4,4,396,2024-03-26,active,16
+LST00737,AGT030,Apartemen,Jl. Cempaka No. 56,Tangerang,Banten,1823000000,104,4,1,,2024-02-01,active,191
+LST00738,AGT038,Vila,Perumahan Cibubur Country Blok B15 No. 73,Bali,Bali,11303000000,212,3,3,614,2023-10-21,active,120
+LST00739,AGT144,Ruko,Jl. Kelapa No. 27,Jakarta Utara,DKI Jakarta,1885000000,277,0,2,354,2023-07-24,active,367
+LST00740,AGT020,Rumah,Jl. Pinang No. 51,Jakarta Utara,DKI Jakarta,9903000000,390,5,4,471,2022-04-12,active,253
+LST00741,AGT128,Kavling,Jl. Tulip No. 116,Jakarta Timur,DKI Jakarta,391000000,220,0,0,220,2022-12-17,active,308
+LST00742,AGT084,Rumah,Perumahan Pakuwon Blok G28 No. 74,Depok,Jawa Barat,10185000000,256,3,3,261,2022-01-10,active,237
+LST00743,AGT073,Kavling,Perumahan Citra Garden Blok E2 No. 44,Jakarta Timur,DKI Jakarta,736000000,286,0,0,286,2022-02-03,active,36
+LST00744,AGT121,Rumah,Perumahan Cibubur Country Blok D3 No. 72,Bandung,Jawa Barat,2058000000,484,5,3,554,2023-10-04,sold,127
+LST00745,AGT013,Kavling,Jl. Tunjungan No. 127,Surabaya,Jawa Timur,1811000000,232,0,0,232,2022-09-06,active,192
+LST00746,AGT027,Rumah,Perumahan Cibubur Country Blok G23 No. 93,Jakarta Barat,DKI Jakarta,979000000,174,2,1,209,2024-06-11,sold,58
+LST00747,AGT044,Ruko,Jl. Mawar No. 240,Medan,Sumatera Utara,2242000000,177,0,3,224,2022-04-18,active,133
+LST00748,AGT012,Kavling,Jl. Cempaka No. 68,Medan,Sumatera Utara,653000000,104,0,0,104,2023-11-06,active,353
+LST00749,AGT098,Apartemen,Jl. Tulip No. 33,Bali,Bali,2561000000,200,2,1,,2023-10-16,sold,38
+LST00750,AGT150,Rumah,Jl. Basuki Rahmat No. 170,Jakarta Selatan,DKI Jakarta,14428000000,271,5,1,404,2024-09-30,sold,72
+LST00751,AGT083,Rumah,Perumahan Kelapa Gading Blok F3 No. 46,Jakarta Selatan,DKI Jakarta,13158000000,434,5,2,457,2023-05-12,sold,169
+LST00752,AGT053,Kavling,Jl. Kenanga No. 55,Jakarta Barat,DKI Jakarta,519000000,118,0,0,118,2022-01-27,sold,172
+LST00753,AGT056,Ruko,Jl. Kelapa No. 209,Tangerang,Banten,8470000000,277,0,1,339,2024-12-16,sold,132
+LST00754,AGT081,Kavling,Jl. Cendana No. 218,Surabaya,Jawa Timur,1477000000,442,0,0,442,2024-10-30,sold,28
+LST00755,AGT034,Apartemen,Jl. Solo No. 52,Surabaya,Jawa Timur,2142000000,115,4,2,,2024-03-30,active,97
+LST00756,AGT018,Apartemen,Jl. Flamboyan No. 38,Bandung,Jawa Barat,2626000000,130,2,3,,2024-08-02,active,55
+LST00757,AGT029,Rumah,Perumahan Pakuwon Blok E15 No. 46,Bali,Bali,4441000000,68,5,2,136,2023-06-28,active,61
+LST00758,AGT141,Rumah,Cluster Mawar Blok E11 No. 7,Depok,Jawa Barat,1877000000,241,5,2,279,2024-06-22,sold,70
+LST00759,AGT095,Apartemen,Jl. Pinang No. 76,Jakarta Utara,DKI Jakarta,1151000000,34,4,3,,2023-01-23,sold,104
+LST00760,AGT046,Rumah,Jl. Flamboyan No. 175,Semarang,Jawa Tengah,10232000000,201,6,5,327,2022-04-13,sold,166
+LST00761,AGT064,Ruko,Jl. Gatot Subroto No. 62,Yogyakarta,DI Yogyakarta,2619000000,192,0,1,198,2022-05-15,sold,137
+LST00762,AGT026,Ruko,Jl. Riau No. 101,Jakarta Utara,DKI Jakarta,5313000000,195,0,3,284,2022-07-27,sold,57
+LST00763,AGT069,Rumah,Jl. Diponegoro No. 188,Jakarta Selatan,DKI Jakarta,8612000000,165,3,1,253,2022-01-07,active,49
+LST00764,AGT048,Apartemen,Jl. Sudirman No. 44,Jakarta Selatan,DKI Jakarta,4472000000,181,4,3,,2023-10-08,sold,175
+LST00765,AGT018,Kavling,Cluster Anggrek Blok B1 No. 86,Tangerang,Banten,882000000,175,0,0,175,2024-08-29,active,220
+LST00766,AGT086,Rumah,Jl. Mawar No. 153,Bandung,Jawa Barat,841000000,150,4,1,193,2023-12-23,sold,122
+LST00767,AGT150,Rumah,Perumahan Griya Asri Blok E22 No. 38,Bandung,Jawa Barat,516000000,310,3,2,338,2023-04-13,sold,135
+LST00768,AGT129,Apartemen,Jl. Senopati No. 116,Bali,Bali,1720000000,59,1,1,,2024-10-01,active,377
+LST00769,AGT090,Rumah,Jl. Wolter Monginsidi No. 78,Malang,Jawa Timur,9440000000,191,5,3,284,2023-11-15,active,266
+LST00770,AGT124,Apartemen,Jl. Pisang No. 169,Bekasi,Jawa Barat,1273000000,91,1,1,,2022-10-18,sold,92
+LST00771,AGT128,Rumah,Jl. Asia Afrika No. 53,Surabaya,Jawa Timur,1006000000,185,6,6,363,2022-07-02,sold,50
+LST00772,AGT097,Rumah,Perumahan Pakuwon Blok C29 No. 43,Bekasi,Jawa Barat,10965000000,115,4,4,249,2024-03-11,active,302
+LST00773,AGT107,Ruko,Jl. Senopati No. 214,Surabaya,Jawa Timur,5326000000,238,0,1,243,2022-09-09,sold,111
+LST00774,AGT117,Rumah,Jl. Malioboro No. 238,Surabaya,Jawa Timur,9784000000,465,4,3,493,2022-10-29,sold,120
+LST00775,AGT039,Apartemen,Jl. Cempaka No. 205,Surabaya,Jawa Timur,4635000000,96,2,2,,2023-08-27,active,8
+LST00776,AGT117,Apartemen,Jl. Malioboro No. 79,Surabaya,Jawa Timur,685000000,77,3,3,,2022-01-11,active,221
+LST00777,AGT091,Apartemen,Jl. Diponegoro No. 202,Jakarta Selatan,DKI Jakarta,355000000,34,3,1,,2024-10-25,active,341
+LST00778,AGT144,Rumah,Perumahan Pondok Indah Blok A10 No. 29,Tangerang,Banten,3040000000,104,4,2,291,2022-03-07,active,243
+LST00779,AGT091,Apartemen,Jl. Flamboyan No. 229,Bekasi,Jawa Barat,2387000000,195,4,2,,2023-06-20,active,155
+LST00780,AGT080,Kavling,Jl. Kemang Raya No. 206,Bandung,Jawa Barat,909000000,368,0,0,368,2022-10-13,off_market,132
+LST00781,AGT065,Apartemen,Jl. Cikini No. 146,Jakarta Barat,DKI Jakarta,1461000000,128,2,2,,2024-08-02,sold,140
+LST00782,AGT047,Ruko,Jl. Kemang Raya No. 129,Jakarta Selatan,DKI Jakarta,6959000000,303,0,1,320,2024-01-03,active,240
+LST00783,AGT091,Rumah,Perumahan Citra Garden Blok A25 No. 54,Jakarta Barat,DKI Jakarta,7506000000,298,5,4,416,2022-07-01,sold,36
+LST00784,AGT078,Apartemen,Jl. Diponegoro No. 14,Jakarta Utara,DKI Jakarta,2337000000,170,3,1,,2024-03-15,sold,33
+LST00785,AGT104,Apartemen,Jl. Gatot Subroto No. 213,Jakarta Selatan,DKI Jakarta,398000000,140,4,1,,2022-08-08,sold,86
+LST00786,AGT025,Ruko,Jl. Kenanga No. 32,Jakarta Timur,DKI Jakarta,5560000000,369,0,2,457,2024-11-12,sold,14
+LST00787,AGT053,Apartemen,Jl. Cendana No. 78,Surabaya,Jawa Timur,4579000000,58,4,1,,2023-09-29,sold,2
+LST00788,AGT125,Kavling,Perumahan Taman Mas Blok A5 No. 78,Jakarta Selatan,DKI Jakarta,2754000000,432,0,0,432,2022-09-05,sold,134
+LST00789,AGT025,Rumah,Jl. Pahlawan No. 101,Jakarta Utara,DKI Jakarta,4550000000,164,2,2,170,2022-04-24,active,63
+LST00790,AGT077,Rumah,Perumahan Pondok Indah Blok F15 No. 85,Jakarta Selatan,DKI Jakarta,7128000000,307,3,1,446,2022-09-10,sold,111
+LST00791,AGT038,Rumah,Jl. Mahoni No. 131,Bali,Bali,10923000000,71,3,1,261,2025-01-24,sold,52
+LST00792,AGT122,Kavling,Perumahan Taman Mas Blok E16 No. 48,Jakarta Selatan,DKI Jakarta,2167000000,228,0,0,228,2023-07-18,sold,101
+LST00793,AGT099,Rumah,Jl. Cendana No. 8,Surabaya,Jawa Timur,11930000000,469,2,2,575,2023-08-04,sold,118
+LST00794,AGT031,Rumah,Jl. Pahlawan No. 11,Jakarta Selatan,DKI Jakarta,9744000000,259,2,2,267,2023-12-28,sold,36
+LST00795,AGT120,Vila,Jl. Solo No. 54,Jakarta Selatan,DKI Jakarta,16019000000,291,3,2,524,2023-12-16,sold,135
+LST00796,AGT100,Kavling,Perumahan Bintaro Sektor Blok C21 No. 93,Bandung,Jawa Barat,2301000000,112,0,0,112,2023-11-26,sold,118
+LST00797,AGT036,Apartemen,Jl. Basuki Rahmat No. 97,Jakarta Selatan,DKI Jakarta,2630000000,190,3,2,,2024-08-24,sold,156
+LST00798,AGT047,Ruko,Jl. Wolter Monginsidi No. 150,Yogyakarta,DI Yogyakarta,9106000000,349,0,2,365,2024-04-06,sold,18
+LST00799,AGT012,Apartemen,Jl. Malioboro No. 240,Bandung,Jawa Barat,591000000,62,2,1,,2024-09-02,active,166
+LST00800,AGT060,Vila,Jl. Dago No. 237,Medan,Sumatera Utara,8753000000,203,4,5,449,2022-05-12,active,32
+LST00801,AGT065,Rumah,Perumahan Pakuwon Blok G1 No. 23,Yogyakarta,DI Yogyakarta,2375000000,79,2,2,274,2023-10-20,active,56
+LST00802,AGT116,Rumah,Cluster Anggrek Blok D22 No. 37,Bandung,Jawa Barat,6687000000,128,6,5,179,2023-04-07,sold,52
+LST00803,AGT042,Rumah,Jl. Flamboyan No. 53,Yogyakarta,DI Yogyakarta,7611000000,476,6,2,498,2022-03-10,sold,36
+LST00804,AGT002,Rumah,Jl. Senopati No. 48,Bogor,Jawa Barat,6391000000,456,5,5,595,2024-12-17,active,255
+LST00805,AGT049,Rumah,Perumahan Pondok Indah Blok E28 No. 18,Jakarta Barat,DKI Jakarta,14138000000,166,6,4,294,2022-05-18,sold,113
+LST00806,AGT110,Apartemen,Jl. Cikini No. 26,Depok,Jawa Barat,3431000000,40,1,1,,2022-08-30,off_market,285
+LST00807,AGT060,Kavling,Jl. Melati No. 58,Bali,Bali,410000000,387,0,0,387,2023-08-17,sold,65
+LST00808,AGT100,Kavling,Jl. Mahoni No. 248,Jakarta Barat,DKI Jakarta,1665000000,114,0,0,114,2023-08-13,sold,20
+LST00809,AGT137,Ruko,Jl. Kenanga No. 140,Bekasi,Jawa Barat,4755000000,345,0,3,409,2022-08-16,sold,150
+LST00810,AGT121,Ruko,Jl. Pinang No. 86,Bekasi,Jawa Barat,5109000000,95,0,1,138,2022-05-02,active,72
+LST00811,AGT053,Rumah,Jl. Anggrek No. 89,Bali,Bali,9463000000,478,4,1,538,2022-05-25,active,214
+LST00812,AGT021,Ruko,Jl. Flamboyan No. 10,Surabaya,Jawa Timur,9834000000,325,0,1,359,2024-10-14,sold,130
+LST00813,AGT058,Apartemen,Jl. Pisang No. 6,Bali,Bali,3219000000,132,4,2,,2022-04-24,sold,7
+LST00814,AGT051,Rumah,Jl. Braga No. 197,Bekasi,Jawa Barat,9252000000,371,5,1,512,2024-02-12,sold,179
+LST00815,AGT033,Rumah,Perumahan Taman Mas Blok E29 No. 48,Bali,Bali,7540000000,419,5,5,454,2023-12-22,active,100
+LST00816,AGT088,Vila,Jl. Pisang No. 106,Jakarta Timur,DKI Jakarta,15304000000,179,4,3,276,2025-01-03,sold,146
+LST00817,AGT012,Rumah,Cluster Anggrek Blok B10 No. 6,Depok,Jawa Barat,13636000000,67,3,1,86,2023-10-06,sold,90
+LST00818,AGT063,Vila,Jl. Cempaka No. 20,Surabaya,Jawa Timur,10581000000,216,7,7,511,2023-05-28,active,279
+LST00819,AGT053,Rumah,Jl. Asia Afrika No. 200,Surabaya,Jawa Timur,8608000000,421,4,2,534,2023-08-23,sold,168
+LST00820,AGT063,Ruko,Jl. Flamboyan No. 14,Bandung,Jawa Barat,9431000000,216,0,2,305,2023-12-11,sold,106
+LST00821,AGT125,Ruko,Jl. Kaliurang No. 60,Bandung,Jawa Barat,5383000000,120,0,1,137,2023-09-17,active,380
+LST00822,AGT142,Rumah,Jl. Pahlawan No. 167,Jakarta Timur,DKI Jakarta,3953000000,122,4,2,131,2024-07-18,active,59
+LST00823,AGT006,Rumah,Jl. Cikini No. 212,Bandung,Jawa Barat,8674000000,488,2,2,559,2022-06-23,sold,16
+LST00824,AGT072,Rumah,Jl. Braga No. 114,Tangerang,Banten,14501000000,372,5,4,376,2022-04-01,sold,58
+LST00825,AGT053,Rumah,Jl. Anggrek No. 139,Jakarta Timur,DKI Jakarta,6714000000,154,5,5,167,2023-12-14,active,14
+LST00826,AGT087,Rumah,Perumahan Graha Famili Blok G20 No. 56,Depok,Jawa Barat,14068000000,194,6,2,387,2024-05-25,sold,15
+LST00827,AGT028,Vila,Jl. Kaliurang No. 67,Jakarta Barat,DKI Jakarta,19130000000,348,5,6,635,2022-11-29,active,196
+LST00828,AGT120,Vila,Jl. Gatot Subroto No. 22,Jakarta Barat,DKI Jakarta,8806000000,217,3,3,676,2023-05-27,sold,139
+LST00829,AGT076,Rumah,Perumahan Kelapa Gading Blok F9 No. 84,Depok,Jawa Barat,6030000000,352,5,1,509,2022-01-26,active,64
+LST00830,AGT079,Rumah,Jl. Melati No. 113,Tangerang,Banten,9813000000,398,4,3,443,2022-01-19,sold,120
+LST00831,AGT010,Kavling,Jl. Kelapa No. 105,Bali,Bali,1669000000,325,0,0,325,2022-04-30,active,297
+LST00832,AGT021,Apartemen,Jl. Thamrin No. 197,Bandung,Jawa Barat,2614000000,178,3,1,,2023-07-20,sold,67
+LST00833,AGT127,Rumah,Jl. Pisang No. 30,Bandung,Jawa Barat,2584000000,176,3,1,334,2022-03-20,active,95
+LST00834,AGT130,Apartemen,Jl. Pisang No. 16,Bandung,Jawa Barat,3957000000,170,3,1,,2023-06-15,active,132
+LST00835,AGT005,Rumah,Perumahan Taman Mas Blok A17 No. 57,Yogyakarta,DI Yogyakarta,11614000000,492,4,1,645,2022-08-20,sold,131
+LST00836,AGT020,Rumah,Jl. Pemuda No. 225,Jakarta Selatan,DKI Jakarta,4382000000,164,4,3,338,2023-08-03,active,74
+LST00837,AGT007,Apartemen,Jl. Asia Afrika No. 121,Jakarta Selatan,DKI Jakarta,3025000000,177,3,2,,2023-08-26,sold,160
+LST00838,AGT008,Kavling,Perumahan Bintaro Sektor Blok E1 No. 14,Jakarta Pusat,DKI Jakarta,856000000,268,0,0,268,2023-03-10,sold,81
+LST00839,AGT131,Rumah,Perumahan BSD Blok D27 No. 75,Semarang,Jawa Tengah,12227000000,459,6,5,641,2022-03-08,sold,169
+LST00840,AGT039,Rumah,Jl. Dago No. 138,Bandung,Jawa Barat,6743000000,450,2,1,507,2022-09-06,sold,136
+LST00841,AGT014,Apartemen,Jl. Diponegoro No. 234,Jakarta Selatan,DKI Jakarta,4219000000,190,4,2,,2023-05-15,active,169
+LST00842,AGT063,Rumah,Perumahan Taman Mas Blok F8 No. 57,Semarang,Jawa Tengah,13590000000,453,4,2,569,2024-04-19,sold,93
+LST00843,AGT021,Apartemen,Jl. Pisang No. 115,Depok,Jawa Barat,3233000000,165,1,2,,2024-05-07,sold,59
+LST00844,AGT146,Apartemen,Jl. Sakura No. 156,Jakarta Utara,DKI Jakarta,1376000000,159,2,2,,2023-06-18,active,147
+LST00845,AGT088,Rumah,Jl. Cendana No. 148,Jakarta Utara,DKI Jakarta,5642000000,120,2,2,227,2024-10-09,active,324
+LST00846,AGT051,Rumah,Jl. Basuki Rahmat No. 191,Depok,Jawa Barat,3447000000,292,2,1,322,2022-07-26,sold,33
+LST00847,AGT009,Ruko,Jl. Sakura No. 132,Jakarta Pusat,DKI Jakarta,7868000000,92,0,3,113,2024-12-20,active,199
+LST00848,AGT109,Rumah,Jl. Tulip No. 87,Bekasi,Jawa Barat,6305000000,125,5,5,186,2023-11-21,sold,152
+LST00849,AGT028,Kavling,Jl. Wolter Monginsidi No. 244,Bali,Bali,385000000,117,0,0,117,2024-07-08,sold,105
+LST00850,AGT116,Rumah,Jl. Sakura No. 188,Yogyakarta,DI Yogyakarta,12635000000,487,5,3,680,2023-01-11,sold,151
+LST00851,AGT131,Apartemen,Jl. Tunjungan No. 98,Jakarta Selatan,DKI Jakarta,1036000000,60,1,2,,2023-10-19,active,225
+LST00852,AGT046,Ruko,Jl. Cikini No. 127,Yogyakarta,DI Yogyakarta,9134000000,381,0,2,479,2023-11-30,active,25
+LST00853,AGT145,Rumah,Cluster Mawar Blok C25 No. 23,Bekasi,Jawa Barat,8981000000,328,6,5,437,2022-10-21,sold,11
+LST00854,AGT054,Apartemen,Jl. Kemang Raya No. 26,Bandung,Jawa Barat,3876000000,154,3,3,,2023-12-13,active,146
+LST00855,AGT043,Rumah,Perumahan Bintaro Sektor Blok C30 No. 34,Depok,Jawa Barat,2442000000,207,4,4,319,2022-08-06,active,119
+LST00856,AGT072,Apartemen,Jl. Mahoni No. 8,Jakarta Timur,DKI Jakarta,1505000000,46,2,3,,2022-03-23,sold,139
+LST00857,AGT138,Ruko,Jl. Diponegoro No. 242,Depok,Jawa Barat,3997000000,83,0,2,86,2024-05-23,off_market,257
+LST00858,AGT134,Rumah,Jl. Tulip No. 114,Depok,Jawa Barat,2567000000,485,5,3,513,2024-06-04,sold,127
+LST00859,AGT068,Rumah,Jl. Pisang No. 187,Surabaya,Jawa Timur,1923000000,130,4,1,220,2022-06-02,active,168
+LST00860,AGT041,Rumah,Jl. Cempaka No. 181,Bandung,Jawa Barat,8807000000,231,4,4,392,2023-10-07,active,20
+LST00861,AGT111,Apartemen,Jl. Anggrek No. 243,Bekasi,Jawa Barat,1172000000,155,3,1,,2022-01-17,sold,63
+LST00862,AGT036,Kavling,Jl. Pisang No. 173,Tangerang,Banten,2601000000,272,0,0,272,2023-02-05,active,136
+LST00863,AGT121,Rumah,Perumahan BSD Blok F29 No. 12,Jakarta Timur,DKI Jakarta,2981000000,308,3,3,435,2024-11-23,sold,55
+LST00864,AGT001,Kavling,Jl. Kelapa No. 182,Bogor,Jawa Barat,1978000000,114,0,0,114,2022-12-31,sold,10
+LST00865,AGT108,Rumah,Jl. Wolter Monginsidi No. 124,Depok,Jawa Barat,11771000000,194,6,4,355,2024-12-22,sold,169
+LST00866,AGT047,Apartemen,Jl. Riau No. 154,Bandung,Jawa Barat,2808000000,81,3,3,,2024-01-02,sold,140
+LST00867,AGT124,Apartemen,Jl. Diponegoro No. 108,Jakarta Timur,DKI Jakarta,2770000000,46,2,1,,2024-07-04,sold,84
+LST00868,AGT064,Apartemen,Jl. Tulip No. 89,Tangerang,Banten,3830000000,51,2,2,,2024-03-26,sold,33
+LST00869,AGT124,Rumah,Jl. Melati No. 75,Jakarta Barat,DKI Jakarta,14264000000,472,5,5,577,2023-07-03,active,260
+LST00870,AGT056,Ruko,Jl. Kemang Raya No. 106,Surabaya,Jawa Timur,7501000000,111,0,3,209,2024-03-12,active,227
+LST00871,AGT109,Rumah,Jl. Senopati No. 163,Surabaya,Jawa Timur,7031000000,193,2,2,317,2022-04-04,active,158
+LST00872,AGT115,Ruko,Jl. Tulip No. 243,Surabaya,Jawa Timur,7514000000,193,0,3,214,2023-11-07,off_market,96
+LST00873,AGT139,Apartemen,Jl. Senopati No. 234,Jakarta Utara,DKI Jakarta,513000000,27,4,1,,2023-12-24,sold,142
+LST00874,AGT017,Apartemen,Jl. Mahoni No. 215,Bogor,Jawa Barat,753000000,154,2,2,,2025-01-02,active,203
+LST00875,AGT059,Apartemen,Jl. Sudirman No. 241,Medan,Sumatera Utara,2727000000,63,3,2,,2022-01-28,off_market,48
+LST00876,AGT006,Vila,Jl. Mahoni No. 73,Bali,Bali,18254000000,202,7,7,657,2023-09-10,active,13
+LST00877,AGT059,Rumah,Jl. Braga No. 168,Jakarta Selatan,DKI Jakarta,10847000000,455,3,1,524,2024-03-31,active,68
+LST00878,AGT070,Rumah,Jl. Dago No. 6,Bali,Bali,14622000000,103,2,1,232,2022-01-31,active,381
+LST00879,AGT139,Kavling,Perumahan Pondok Indah Blok G13 No. 25,Jakarta Barat,DKI Jakarta,2677000000,157,0,0,157,2023-10-02,sold,83
+LST00880,AGT109,Apartemen,Jl. Flamboyan No. 68,Jakarta Barat,DKI Jakarta,4547000000,27,3,2,,2024-08-23,sold,97
+LST00881,AGT075,Kavling,Cluster Mawar Blok E9 No. 62,Jakarta Selatan,DKI Jakarta,1959000000,127,0,0,127,2023-08-06,active,360
+LST00882,AGT137,Kavling,Cluster Anggrek Blok F13 No. 48,Depok,Jawa Barat,2275000000,205,0,0,205,2025-01-24,active,366
+LST00883,AGT028,Vila,Jl. Pahlawan No. 95,Depok,Jawa Barat,15819000000,264,7,6,517,2024-09-03,sold,145
+LST00884,AGT028,Rumah,Jl. Flamboyan No. 144,Jakarta Barat,DKI Jakarta,11031000000,219,4,2,380,2022-12-13,active,107
+LST00885,AGT126,Apartemen,Jl. Basuki Rahmat No. 134,Bekasi,Jawa Barat,2397000000,43,2,2,,2023-04-22,active,31
+LST00886,AGT127,Rumah,Perumahan Graha Famili Blok E20 No. 53,Bogor,Jawa Barat,4629000000,270,4,3,308,2022-01-12,sold,69
+LST00887,AGT054,Apartemen,Jl. Sudirman No. 83,Bandung,Jawa Barat,4957000000,147,4,2,,2024-08-02,sold,124
+LST00888,AGT132,Kavling,Jl. Dahlia No. 236,Medan,Sumatera Utara,2472000000,458,0,0,458,2022-08-04,sold,109
+LST00889,AGT020,Ruko,Jl. Tulip No. 43,Jakarta Utara,DKI Jakarta,6955000000,145,0,1,165,2023-02-09,sold,113
+LST00890,AGT030,Ruko,Jl. Kaliurang No. 125,Bandung,Jawa Barat,1439000000,297,0,2,318,2022-10-14,sold,141
+LST00891,AGT108,Rumah,Jl. Gatot Subroto No. 134,Bali,Bali,7043000000,64,4,1,175,2023-10-23,active,315
+LST00892,AGT096,Apartemen,Jl. Kelapa No. 206,Yogyakarta,DI Yogyakarta,4968000000,188,2,1,,2024-01-31,sold,133
+LST00893,AGT065,Apartemen,Jl. Sakura No. 43,Jakarta Barat,DKI Jakarta,4217000000,140,2,2,,2024-12-09,sold,122
+LST00894,AGT003,Rumah,Perumahan Griya Asri Blok C23 No. 25,Jakarta Selatan,DKI Jakarta,5705000000,273,3,1,393,2023-02-13,sold,178
+LST00895,AGT025,Ruko,Jl. Tunjungan No. 153,Jakarta Pusat,DKI Jakarta,9610000000,314,0,2,326,2022-11-17,active,35
+LST00896,AGT090,Ruko,Jl. Pinang No. 71,Jakarta Selatan,DKI Jakarta,9961000000,195,0,2,275,2023-08-06,active,219
+LST00897,AGT150,Rumah,Jl. Pinang No. 20,Surabaya,Jawa Timur,12449000000,216,4,4,281,2022-11-09,sold,27
+LST00898,AGT056,Apartemen,Jl. Kaliurang No. 151,Surabaya,Jawa Timur,2643000000,67,3,3,,2024-02-24,active,170
+LST00899,AGT148,Rumah,Jl. Basuki Rahmat No. 54,Surabaya,Jawa Timur,13148000000,496,6,5,566,2022-12-11,sold,1
+LST00900,AGT060,Apartemen,Jl. Mawar No. 83,Tangerang,Banten,2123000000,45,2,1,,2022-06-09,active,27
+LST00901,AGT036,Ruko,Jl. Cikini No. 129,Jakarta Timur,DKI Jakarta,9183000000,305,0,2,390,2022-08-29,sold,62
+LST00902,AGT144,Rumah,Perumahan Citra Garden Blok C17 No. 11,Jakarta Selatan,DKI Jakarta,6942000000,253,5,4,343,2023-03-15,sold,43
+LST00903,AGT072,Kavling,Jl. Malioboro No. 178,Jakarta Barat,DKI Jakarta,785000000,303,0,0,303,2023-05-29,active,351
+LST00904,AGT031,Apartemen,Jl. Asia Afrika No. 219,Yogyakarta,DI Yogyakarta,4920000000,133,3,1,,2024-08-12,active,395
+LST00905,AGT089,Kavling,Jl. Pinang No. 98,Bali,Bali,1937000000,189,0,0,189,2024-02-06,active,92
+LST00906,AGT003,Ruko,Jl. Cikini No. 85,Bandung,Jawa Barat,4008000000,306,0,2,373,2022-07-12,sold,95
+LST00907,AGT065,Kavling,Jl. Anggrek No. 166,Jakarta Selatan,DKI Jakarta,2259000000,86,0,0,86,2023-07-18,active,329
+LST00908,AGT123,Rumah,Perumahan Pondok Indah Blok G1 No. 92,Tangerang,Banten,7025000000,82,4,3,242,2024-08-22,sold,156
+LST00909,AGT117,Rumah,Perumahan Griya Asri Blok E29 No. 92,Yogyakarta,DI Yogyakarta,8533000000,148,5,5,174,2022-11-10,active,362
+LST00910,AGT046,Rumah,Jl. Tulip No. 15,Bekasi,Jawa Barat,14769000000,495,3,1,602,2024-06-27,active,327
+LST00911,AGT016,Vila,Perumahan Pondok Indah Blok F1 No. 43,Jakarta Selatan,DKI Jakarta,11296000000,199,7,7,685,2023-10-11,sold,44
+LST00912,AGT094,Apartemen,Jl. Kenanga No. 17,Surabaya,Jawa Timur,4579000000,25,4,2,,2023-01-31,sold,129
+LST00913,AGT038,Rumah,Perumahan Pondok Indah Blok B23 No. 65,Depok,Jawa Barat,12443000000,196,2,1,309,2024-04-18,active,89
+LST00914,AGT001,Apartemen,Jl. Dahlia No. 145,Jakarta Barat,DKI Jakarta,2899000000,92,3,1,,2024-08-06,sold,23
+LST00915,AGT030,Vila,Jl. Melati No. 197,Jakarta Timur,DKI Jakarta,3967000000,243,3,2,455,2022-12-13,active,6
+LST00916,AGT056,Kavling,Jl. Sudirman No. 79,Jakarta Timur,DKI Jakarta,2813000000,271,0,0,271,2023-01-27,sold,34
+LST00917,AGT080,Rumah,Perumahan Cibubur Country Blok D8 No. 25,Tangerang,Banten,1373000000,254,4,2,325,2023-07-13,sold,52
+LST00918,AGT046,Ruko,Jl. Malioboro No. 91,Jakarta Selatan,DKI Jakarta,5632000000,212,0,3,268,2024-01-15,active,179
+LST00919,AGT134,Rumah,Perumahan Citra Garden Blok E7 No. 90,Bandung,Jawa Barat,7867000000,484,3,1,633,2024-06-07,sold,89
+LST00920,AGT074,Vila,Jl. Gatot Subroto No. 24,Semarang,Jawa Tengah,7797000000,325,7,8,799,2024-11-17,sold,54
+LST00921,AGT067,Kavling,Perumahan Taman Mas Blok E22 No. 81,Medan,Sumatera Utara,1093000000,319,0,0,319,2023-01-17,sold,122
+LST00922,AGT036,Vila,Perumahan Pondok Indah Blok A11 No. 90,Tangerang,Banten,16310000000,450,5,5,788,2022-08-03,sold,162
+LST00923,AGT092,Kavling,Jl. Senopati No. 87,Bandung,Jawa Barat,232000000,161,0,0,161,2022-07-25,sold,48
+LST00924,AGT092,Apartemen,Jl. Melati No. 113,Jakarta Selatan,DKI Jakarta,2859000000,63,4,3,,2024-07-23,active,304
+LST00925,AGT148,Ruko,Jl. Asia Afrika No. 154,Bekasi,Jawa Barat,7926000000,284,0,2,315,2023-11-23,active,248
+LST00926,AGT103,Apartemen,Jl. Pemuda No. 199,Yogyakarta,DI Yogyakarta,2809000000,32,2,3,,2023-07-06,active,296
+LST00927,AGT103,Rumah,Jl. Kaliurang No. 51,Jakarta Selatan,DKI Jakarta,10216000000,74,3,3,116,2022-10-13,active,67
+LST00928,AGT086,Kavling,Perumahan Bintaro Sektor Blok G12 No. 59,Surabaya,Jawa Timur,420000000,126,0,0,126,2024-03-21,active,85
+LST00929,AGT118,Kavling,Perumahan Bintaro Sektor Blok C10 No. 11,Jakarta Pusat,DKI Jakarta,203000000,417,0,0,417,2023-01-14,sold,61
+LST00930,AGT053,Rumah,Jl. Asia Afrika No. 2,Malang,Jawa Timur,7652000000,106,3,1,281,2024-09-04,active,82
+LST00931,AGT089,Rumah,Jl. Basuki Rahmat No. 172,Jakarta Timur,DKI Jakarta,2136000000,301,6,6,401,2024-02-10,sold,119
+LST00932,AGT063,Rumah,Jl. Sakura No. 103,Yogyakarta,DI Yogyakarta,13001000000,109,5,2,190,2023-11-01,sold,73
+LST00933,AGT109,Rumah,Jl. Melati No. 57,Jakarta Timur,DKI Jakarta,10280000000,261,6,1,349,2022-12-31,sold,61
+LST00934,AGT095,Rumah,Jl. Riau No. 235,Bekasi,Jawa Barat,6435000000,234,6,1,390,2022-06-08,sold,166
+LST00935,AGT059,Rumah,Perumahan Taman Mas Blok C13 No. 84,Bandung,Jawa Barat,2762000000,315,3,1,369,2023-01-04,sold,109
+LST00936,AGT039,Apartemen,Jl. Anggrek No. 67,Bogor,Jawa Barat,2684000000,101,4,3,,2024-05-13,sold,46
+LST00937,AGT042,Ruko,Jl. Wolter Monginsidi No. 176,Jakarta Barat,DKI Jakarta,7324000000,344,0,1,403,2022-07-27,sold,168
+LST00938,AGT104,Rumah,Perumahan Citra Garden Blok D22 No. 59,Tangerang,Banten,13665000000,473,2,1,554,2022-01-24,sold,125
+LST00939,AGT103,Rumah,Perumahan Pakuwon Blok A20 No. 58,Semarang,Jawa Tengah,7421000000,454,2,2,562,2024-10-25,active,191
+LST00940,AGT122,Rumah,Jl. Pemuda No. 137,Jakarta Barat,DKI Jakarta,12165000000,231,6,3,259,2024-02-25,off_market,70
+LST00941,AGT039,Rumah,Jl. Tunjungan No. 112,Tangerang,Banten,613000000,232,6,3,282,2022-04-10,sold,119
+LST00942,AGT073,Rumah,Perumahan Pondok Indah Blok F12 No. 33,Tangerang,Banten,1152000000,122,5,4,215,2024-05-21,sold,87
+LST00943,AGT076,Rumah,Cluster Mawar Blok A15 No. 42,Surabaya,Jawa Timur,13063000000,479,2,2,524,2023-09-02,active,326
+LST00944,AGT010,Rumah,Jl. Sudirman No. 45,Malang,Jawa Timur,10261000000,117,4,1,253,2022-06-22,active,274
+LST00945,AGT025,Apartemen,Jl. Wolter Monginsidi No. 249,Bandung,Jawa Barat,1382000000,59,4,2,,2024-07-27,sold,177
+LST00946,AGT063,Apartemen,Jl. Asia Afrika No. 10,Bali,Bali,4638000000,167,4,1,,2022-10-28,sold,156
+LST00947,AGT026,Vila,Jl. Pemuda No. 103,Tangerang,Banten,13514000000,412,3,3,788,2022-02-15,active,95
+LST00948,AGT066,Ruko,Jl. Cikini No. 158,Surabaya,Jawa Timur,2098000000,301,0,1,325,2024-11-18,active,277
+LST00949,AGT063,Rumah,Jl. Pemuda No. 71,Surabaya,Jawa Timur,11874000000,469,2,2,615,2023-01-16,active,142
+LST00950,AGT129,Apartemen,Jl. Gatot Subroto No. 2,Depok,Jawa Barat,724000000,176,4,1,,2024-04-13,active,107
+LST00951,AGT005,Vila,Jl. Kemang Raya No. 25,Jakarta Selatan,DKI Jakarta,14576000000,486,4,4,672,2023-03-30,sold,58
+LST00952,AGT005,Ruko,Jl. Tunjungan No. 151,Bekasi,Jawa Barat,6118000000,193,0,1,271,2024-05-11,active,326
+LST00953,AGT085,Ruko,Jl. Senopati No. 82,Bandung,Jawa Barat,9671000000,279,0,2,350,2023-12-11,sold,114
+LST00954,AGT039,Kavling,Jl. Mahoni No. 173,Tangerang,Banten,2092000000,460,0,0,460,2024-03-09,sold,66
+LST00955,AGT104,Ruko,Jl. Wolter Monginsidi No. 22,Surabaya,Jawa Timur,1328000000,372,0,1,452,2023-03-02,sold,136
+LST00956,AGT095,Ruko,Jl. Melati No. 40,Surabaya,Jawa Timur,5781000000,229,0,2,286,2022-12-08,off_market,210
+LST00957,AGT145,Rumah,Jl. Sudirman No. 97,Jakarta Barat,DKI Jakarta,7570000000,272,2,2,414,2025-01-05,active,68
+LST00958,AGT097,Kavling,Perumahan BSD Blok B4 No. 74,Medan,Sumatera Utara,2686000000,143,0,0,143,2023-08-16,active,92
+LST00959,AGT041,Rumah,Perumahan BSD Blok D29 No. 77,Bali,Bali,13064000000,458,5,5,562,2023-07-26,active,164
+LST00960,AGT093,Kavling,Jl. Kemang Raya No. 129,Jakarta Utara,DKI Jakarta,2781000000,134,0,0,134,2025-01-01,sold,137
+LST00961,AGT101,Ruko,Jl. Pahlawan No. 41,Bandung,Jawa Barat,4488000000,286,0,2,382,2022-12-30,sold,103
+LST00962,AGT074,Rumah,Perumahan Taman Mas Blok D19 No. 84,Bandung,Jawa Barat,554000000,332,4,4,499,2024-05-06,active,215
+LST00963,AGT106,Apartemen,Jl. Solo No. 21,Jakarta Selatan,DKI Jakarta,1897000000,184,1,1,,2024-04-17,sold,6
+LST00964,AGT084,Vila,Jl. Asia Afrika No. 6,Jakarta Timur,DKI Jakarta,9190000000,235,7,8,526,2024-03-08,off_market,291
+LST00965,AGT050,Rumah,Jl. Jati No. 121,Depok,Jawa Barat,14431000000,142,5,3,327,2023-02-14,sold,83
+LST00966,AGT034,Vila,Jl. Sudirman No. 176,Tangerang,Banten,10600000000,183,3,2,528,2024-06-27,active,124
+LST00967,AGT046,Ruko,Jl. Senopati No. 224,Jakarta Barat,DKI Jakarta,8359000000,336,0,3,350,2022-11-23,active,126
+LST00968,AGT119,Apartemen,Jl. Basuki Rahmat No. 221,Bandung,Jawa Barat,922000000,23,1,2,,2024-02-29,active,37
+LST00969,AGT107,Rumah,Jl. Melati No. 113,Surabaya,Jawa Timur,4760000000,426,6,1,609,2024-09-11,sold,16
+LST00970,AGT075,Apartemen,Jl. Solo No. 162,Jakarta Selatan,DKI Jakarta,3613000000,32,3,2,,2024-06-20,sold,110
+LST00971,AGT032,Ruko,Jl. Tulip No. 185,Jakarta Pusat,DKI Jakarta,2497000000,154,0,2,251,2022-12-13,active,188
+LST00972,AGT106,Ruko,Jl. Flamboyan No. 85,Depok,Jawa Barat,6367000000,152,0,1,213,2022-06-01,sold,118
+LST00973,AGT126,Ruko,Jl. Senopati No. 202,Jakarta Timur,DKI Jakarta,4809000000,213,0,2,250,2024-07-11,sold,180
+LST00974,AGT067,Rumah,Perumahan Citra Garden Blok C1 No. 29,Depok,Jawa Barat,9809000000,200,6,1,394,2024-01-30,active,289
+LST00975,AGT093,Rumah,Jl. Basuki Rahmat No. 183,Yogyakarta,DI Yogyakarta,12194000000,209,4,2,354,2024-06-19,sold,173
+LST00976,AGT076,Vila,Jl. Thamrin No. 164,Surabaya,Jawa Timur,6060000000,215,4,5,414,2023-04-12,sold,8
+LST00977,AGT055,Rumah,Perumahan Graha Famili Blok E24 No. 67,Bali,Bali,10055000000,215,3,3,218,2024-04-11,active,245
+LST00978,AGT044,Ruko,Jl. Asia Afrika No. 97,Surabaya,Jawa Timur,6439000000,159,0,3,223,2024-09-20,active,332
+LST00979,AGT044,Apartemen,Jl. Mawar No. 172,Bandung,Jawa Barat,4652000000,145,2,2,,2022-05-13,sold,88
+LST00980,AGT058,Rumah,Jl. Tulip No. 167,Depok,Jawa Barat,5567000000,165,3,1,236,2023-02-08,active,183
+LST00981,AGT128,Rumah,Perumahan Pakuwon Blok A13 No. 81,Bandung,Jawa Barat,8025000000,351,2,1,540,2022-07-22,active,169
+LST00982,AGT130,Rumah,Jl. Dahlia No. 249,Bali,Bali,1600000000,198,6,5,387,2022-04-25,sold,115
+LST00983,AGT146,Kavling,Perumahan Graha Famili Blok B23 No. 84,Medan,Sumatera Utara,2341000000,206,0,0,206,2023-05-17,active,117
+LST00984,AGT117,Apartemen,Jl. Pinang No. 188,Yogyakarta,DI Yogyakarta,1803000000,32,3,3,,2022-05-11,active,68
+LST00985,AGT134,Kavling,Perumahan BSD Blok E25 No. 75,Bogor,Jawa Barat,1440000000,111,0,0,111,2024-09-04,active,238
+LST00986,AGT026,Ruko,Jl. Basuki Rahmat No. 30,Depok,Jawa Barat,9597000000,106,0,2,187,2024-06-24,sold,22
+LST00987,AGT122,Kavling,Jl. Kelapa No. 154,Bandung,Jawa Barat,1008000000,131,0,0,131,2024-09-24,sold,77
+LST00988,AGT146,Ruko,Jl. Pahlawan No. 200,Jakarta Selatan,DKI Jakarta,957000000,377,0,2,391,2023-02-03,sold,151
+LST00989,AGT117,Rumah,Jl. Jati No. 85,Jakarta Selatan,DKI Jakarta,508000000,188,5,5,257,2024-11-04,sold,124
+LST00990,AGT132,Rumah,Perumahan Kelapa Gading Blok F18 No. 65,Bali,Bali,5149000000,390,4,3,526,2023-09-25,active,321
+LST00991,AGT113,Rumah,Perumahan Citra Garden Blok D16 No. 21,Jakarta Pusat,DKI Jakarta,2326000000,447,3,2,448,2023-01-02,active,34
+LST00992,AGT111,Ruko,Jl. Jati No. 50,Bali,Bali,5791000000,128,0,2,171,2022-08-11,active,391
+LST00993,AGT060,Apartemen,Jl. Basuki Rahmat No. 27,Jakarta Barat,DKI Jakarta,2096000000,100,3,2,,2023-09-07,active,313
+LST00994,AGT054,Rumah,Cluster Mawar Blok G6 No. 21,Bandung,Jawa Barat,9855000000,404,3,2,444,2022-11-18,active,167
+LST00995,AGT133,Rumah,Jl. Pisang No. 239,Jakarta Timur,DKI Jakarta,8262000000,394,6,4,593,2023-06-23,sold,121
+LST00996,AGT078,Rumah,Perumahan Graha Famili Blok C15 No. 40,Tangerang,Banten,6575000000,134,4,3,320,2024-05-21,off_market,231
+LST00997,AGT107,Rumah,Perumahan Bintaro Sektor Blok D25 No. 36,Tangerang,Banten,592000000,450,5,1,554,2022-02-09,active,361
+LST00998,AGT052,Ruko,Jl. Pemuda No. 203,Jakarta Selatan,DKI Jakarta,4217000000,211,0,2,258,2024-02-23,sold,84
+LST00999,AGT143,Apartemen,Jl. Gatot Subroto No. 28,Bali,Bali,4937000000,73,2,3,,2022-06-02,sold,63
+LST01000,AGT042,Kavling,Jl. Basuki Rahmat No. 244,Jakarta Timur,DKI Jakarta,1533000000,450,0,0,450,2022-04-05,active,400

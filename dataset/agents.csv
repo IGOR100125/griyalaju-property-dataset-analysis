@@ -1,0 +1,151 @@
+agent_id,name,agency_id,phone,email,city,experience_years,active_listings,avg_rating,joined_date
+AGT001,Lisa Hutapea,AGC04,08258181396,lisa.hutapea@century21sudir.co.id,Jakarta Pusat,20,10,4.77,2023-03-08
+AGT002,Lukman Saputra,AGC15,08720576383,lukman.saputra@parahyanganrea.co.id,Bandung,20,13,4.49,2022-11-25
+AGT003,Hadi Santoso,AGC03,08520709497,hadi.santoso@coldwellbanker.co.id,Jakarta Selatan,4,14,4.13,2022-02-16
+AGT004,Anton Simanjuntak,AGC12,08638119557,anton.simanjuntak@ciputrasurabay.co.id,Surabaya,3,7,4.44,2017-09-29
+AGT005,Cici Hutapea,AGC06,08595899313,cici.hutapea@propertijakart.co.id,Jakarta Barat,8,12,4.81,2023-09-14
+AGT006,Tika Pratama,AGC02,08663843426,tika.pratama@raywhitekemang.co.id,Jakarta Selatan,7,20,4.85,2018-07-12
+AGT007,Bella Cahyadi,AGC07,08796282117,bella.cahyadi@griyamasjakart.co.id,Jakarta Timur,9,6,4.1,2021-04-18
+AGT008,Ayu Mulyono,AGC18,08788320463,ayu.mulyono@jogjaasriprope.co.id,Yogyakarta,8,6,4.41,2016-01-08
+AGT009,Bayu Nugroho,AGC02,08366661351,bayu.nugroho@raywhitekemang.co.id,Jakarta Selatan,13,14,4.52,2020-04-01
+AGT010,Wahyu Hakim,AGC17,08125374874,wahyu.hakim@raywhitebali.co.id,Bali,18,10,4.72,2018-10-25
+AGT011,Kartika Lubis,AGC04,08370897765,kartika.lubis@century21sudir.co.id,Jakarta Pusat,9,18,4.71,2020-09-10
+AGT012,Yanti Kurniawan,AGC04,08991734598,yanti.kurniawan@century21sudir.co.id,Jakarta Pusat,12,7,4.45,2023-09-25
+AGT013,Budi Sasongko,AGC17,08675579548,budi.sasongko@raywhitebali.co.id,Bali,12,11,4.09,2017-09-13
+AGT014,Tono Hidayat,AGC19,08819289546,tono.hidayat@matarampropert.co.id,Yogyakarta,5,6,4.59,2021-03-01
+AGT015,Ayu Iskandar,AGC06,08738427073,ayu.iskandar@propertijakart.co.id,Jakarta Timur,10,14,4.99,2022-04-15
+AGT016,Zaki Iskandar,AGC12,08826240908,zaki.iskandar@ciputrasurabay.co.id,Surabaya,3,12,3.83,2021-03-18
+AGT017,Slamet Santoso,AGC08,08119528530,slamet.santoso@sinarmaslandma.co.id,Jakarta Selatan,2,9,3.88,2015-05-09
+AGT018,Eko Setyawan,AGC11,08447376585,eko.setyawan@surabayaproper.co.id,Surabaya,7,19,3.96,2021-05-27
+AGT019,Dedi Wibowo,AGC19,08864634663,dedi.wibowo@matarampropert.co.id,Yogyakarta,4,15,4.23,2019-08-11
+AGT020,Wati Lestari,AGC15,08164038913,wati.lestari@parahyanganrea.co.id,Bandung,4,9,4.03,2021-01-05
+AGT021,Maya Lubis,AGC15,08347385696,maya.lubis@parahyanganrea.co.id,Bandung,3,16,4.77,2021-03-04
+AGT022,Wati Gunawan,AGC04,08122517517,wati.gunawan@century21sudir.co.id,Jakarta Selatan,6,15,4.38,2017-05-25
+AGT023,Sari Hartono,AGC13,08710289289,sari.hartono@eradagobandung.co.id,Surabaya,15,11,4.31,2023-03-12
+AGT024,Candra Cahyadi,AGC18,08335487660,candra.cahyadi@jogjaasriprope.co.id,Yogyakarta,2,20,4.68,2015-09-07
+AGT025,Sari Sari,AGC11,08877491435,sari.sari@surabayaproper.co.id,Bali,6,3,4.95,2015-11-25
+AGT026,Joko Sasongko,AGC06,08241568532,joko.sasongko@propertijakart.co.id,Jakarta Barat,19,9,4.49,2015-06-12
+AGT027,Tono Marpaung,AGC20,08952462441,tono.marpaung@medanpropertyc.co.id,Jakarta Timur,11,9,4.12,2016-06-20
+AGT028,Bambang Halim,AGC10,08211250299,bambang.halim@propertipahlaw.co.id,Surabaya,19,5,3.89,2017-05-23
+AGT029,Ayu Putri,AGC17,08619233013,ayu.putri@raywhitebali.co.id,Bali,12,11,3.99,2021-02-03
+AGT030,Vera Iskandar,AGC10,08199639081,vera.iskandar@propertipahlaw.co.id,Surabaya,10,5,4.93,2016-07-04
+AGT031,Bayu Lestari,AGC09,08930863865,bayu.lestari@raywhitesuraba.co.id,Surabaya,20,8,4.66,2017-04-13
+AGT032,Heri Cahyadi,AGC09,08516818112,heri.cahyadi@raywhitesuraba.co.id,Surabaya,14,10,3.85,2018-09-28
+AGT033,Zainal Anggraini,AGC05,08369302158,zainal.anggraini@erapondokindah.co.id,Jakarta Selatan,14,19,3.81,2015-11-05
+AGT034,Mira Pratama,AGC05,08688183110,mira.pratama@erapondokindah.co.id,Jakarta Selatan,14,6,3.85,2019-02-02
+AGT035,Linda Rahayu,AGC02,08499514287,linda.rahayu@raywhitekemang.co.id,Jakarta Selatan,18,15,4.97,2023-05-28
+AGT036,Pratama Hartono,AGC05,08365337219,pratama.hartono@erapondokindah.co.id,Jakarta Selatan,11,15,4.76,2023-03-30
+AGT037,Bagus Hartono,AGC08,08261343880,bagus.hartono@sinarmaslandma.co.id,Jakarta Selatan,16,9,4.04,2020-02-29
+AGT038,Anita Santoso,AGC12,08413176186,anita.santoso@ciputrasurabay.co.id,Surabaya,13,12,4.13,2015-10-12
+AGT039,Kurnia Setyawan,AGC09,08781969657,kurnia.setyawan@raywhitesuraba.co.id,Surabaya,1,5,4.85,2017-12-05
+AGT040,Ratna Anggraini,AGC06,08124549543,ratna.anggraini@propertijakart.co.id,Jakarta Barat,12,12,4.32,2020-09-25
+AGT041,Putra Aditya,AGC04,08444188276,putra.aditya@century21sudir.co.id,Jakarta Pusat,14,2,4.42,2021-01-14
+AGT042,Made Lubis,AGC07,08299152472,made.lubis@griyamasjakart.co.id,Medan,11,5,4.66,2018-05-15
+AGT043,Anita Marpaung,AGC17,08664009265,anita.marpaung@raywhitebali.co.id,Bali,18,6,4.03,2022-06-16
+AGT044,Edo Kusuma,AGC13,08564502486,edo.kusuma@eradagobandung.co.id,Bandung,1,11,4.14,2019-10-27
+AGT045,Udin Halim,AGC19,08869295515,udin.halim@matarampropert.co.id,Yogyakarta,7,18,4.37,2023-12-05
+AGT046,Candra Hidayat,AGC06,08579182797,candra.hidayat@propertijakart.co.id,Jakarta Barat,20,12,3.91,2023-06-04
+AGT047,Edo Kurniawan,AGC08,08436726767,edo.kurniawan@sinarmaslandma.co.id,Jakarta Selatan,2,9,4.98,2021-11-08
+AGT048,Bambang Marpaung,AGC03,08461536717,bambang.marpaung@coldwellbanker.co.id,Jakarta Selatan,8,6,4.59,2015-01-23
+AGT049,Vina Santoso,AGC04,08379519112,vina.santoso@century21sudir.co.id,Jakarta Pusat,18,9,4.9,2016-05-12
+AGT050,Maya Harahap,AGC15,08985017682,maya.harahap@parahyanganrea.co.id,Bandung,15,18,4.31,2021-02-22
+AGT051,Anton Wibawa,AGC15,08844788100,anton.wibawa@parahyanganrea.co.id,Bandung,9,18,4.38,2017-09-06
+AGT052,Zaki Setiawan,AGC09,08541473195,zaki.setiawan@raywhitesuraba.co.id,Surabaya,11,19,3.9,2016-09-09
+AGT053,Putra Nugroho,AGC08,08418620650,putra.nugroho@sinarmaslandma.co.id,Jakarta Selatan,11,19,4.36,2015-09-13
+AGT054,Umi Hutapea,AGC07,08187267850,umi.hutapea@griyamasjakart.co.id,Jakarta Timur,1,13,4.16,2019-05-17
+AGT055,Lukman Gunawan,AGC14,08475529051,lukman.gunawan@bandunghijaupr.co.id,Bandung,14,17,3.83,2018-10-08
+AGT056,Citra Harahap,AGC13,08393517915,citra.harahap@eradagobandung.co.id,Bandung,13,20,4.48,2015-04-22
+AGT057,Adit Lubis,AGC03,08371968116,adit.lubis@coldwellbanker.co.id,Jakarta Selatan,9,14,4.19,2020-02-06
+AGT058,Diah Hutapea,AGC11,08566581473,diah.hutapea@surabayaproper.co.id,Surabaya,3,17,3.82,2021-01-18
+AGT059,Kurnia Santoso,AGC02,08297477029,kurnia.santoso@raywhitekemang.co.id,Jakarta Selatan,1,9,4.04,2015-03-25
+AGT060,Fitri Wibowo,AGC20,08373560289,fitri.wibowo@medanpropertyc.co.id,Medan,19,8,4.36,2017-11-15
+AGT061,Citra Sasongko,AGC12,08231980274,citra.sasongko@ciputrasurabay.co.id,Jakarta Pusat,19,2,4.91,2021-06-16
+AGT062,Rama Permana,AGC13,08289470029,rama.permana@eradagobandung.co.id,Bandung,8,5,4.64,2018-05-20
+AGT063,Putri Aditya,AGC20,08156600900,putri.aditya@medanpropertyc.co.id,Medan,12,4,4.41,2018-10-29
+AGT064,Umi Cahyadi,AGC01,08268186525,umi.cahyadi@eraindonesiaja.co.id,Bandung,5,15,4.01,2020-11-07
+AGT065,Vera Gunawan,AGC09,08872394301,vera.gunawan@raywhitesuraba.co.id,Surabaya,19,10,4.19,2017-10-02
+AGT066,Mega Nasution,AGC03,08472372114,mega.nasution@coldwellbanker.co.id,Jakarta Selatan,13,12,3.83,2018-08-24
+AGT067,Fajar Rahayu,AGC06,08644675473,fajar.rahayu@propertijakart.co.id,Jakarta Barat,20,10,4.47,2020-10-17
+AGT068,Tono Wibowo,AGC07,08775575808,tono.wibowo@griyamasjakart.co.id,Jakarta Timur,8,17,4.58,2020-07-03
+AGT069,Agus Hidayat,AGC15,08539742165,agus.hidayat@parahyanganrea.co.id,Bandung,8,11,4.6,2019-02-20
+AGT070,Nanda Iskandar,AGC16,08667110154,nanda.iskandar@balivillarealt.co.id,Yogyakarta,11,13,4.64,2018-01-14
+AGT071,Wahyu Santoso,AGC10,08235848226,wahyu.santoso@propertipahlaw.co.id,Surabaya,18,7,4.03,2023-04-14
+AGT072,Mega Mulyono,AGC16,08990099897,mega.mulyono@balivillarealt.co.id,Bali,4,8,4.16,2019-01-18
+AGT073,Arif Wijaya,AGC06,08926989677,arif.wijaya@propertijakart.co.id,Jakarta Barat,2,19,4.15,2016-06-01
+AGT074,Indah Wijaya,AGC16,08573001391,indah.wijaya@balivillarealt.co.id,Bali,11,7,4.96,2017-10-31
+AGT075,Bayu Setiawan,AGC16,08776001106,bayu.setiawan@balivillarealt.co.id,Bali,2,6,3.98,2021-04-24
+AGT076,Tono Wibowo,AGC10,08284903294,tono.wibowo@propertipahlaw.co.id,Surabaya,20,9,4.73,2019-04-08
+AGT077,Zaki Kurniawan,AGC15,08750987442,zaki.kurniawan@parahyanganrea.co.id,Bandung,2,5,4.94,2017-05-01
+AGT078,Ayu Hidayat,AGC07,08342194159,ayu.hidayat@griyamasjakart.co.id,Jakarta Timur,3,7,3.8,2020-01-20
+AGT079,Dedi Mahendra,AGC20,08141068214,dedi.mahendra@medanpropertyc.co.id,Medan,10,16,3.89,2017-08-14
+AGT080,Yanti Mulyono,AGC09,08467061186,yanti.mulyono@raywhitesuraba.co.id,Surabaya,8,6,4.89,2016-08-05
+AGT081,Sari Hartono,AGC03,08589865458,sari.hartono@coldwellbanker.co.id,Jakarta Selatan,19,11,4.33,2020-04-03
+AGT082,Hesty Pasaribu,AGC10,08577172238,hesty.pasaribu@propertipahlaw.co.id,Surabaya,15,4,4.52,2019-11-05
+AGT083,Udin Anggraini,AGC11,08122257687,udin.anggraini@surabayaproper.co.id,Surabaya,19,20,4.94,2023-07-30
+AGT084,Qori Pratama,AGC09,08373149551,qori.pratama@raywhitesuraba.co.id,Surabaya,15,10,4.02,2021-07-25
+AGT085,Zainal Cahyadi,AGC14,08273083727,zainal.cahyadi@bandunghijaupr.co.id,Bandung,11,12,4.6,2016-10-20
+AGT086,Teguh Cahyadi,AGC11,08598930456,teguh.cahyadi@surabayaproper.co.id,Yogyakarta,2,16,3.91,2017-10-30
+AGT087,Bayu Pasaribu,AGC11,08910154493,bayu.pasaribu@surabayaproper.co.id,Surabaya,18,16,4.3,2017-02-07
+AGT088,Made Putra,AGC17,08893940940,made.putra@raywhitebali.co.id,Bali,2,8,4.12,2016-06-20
+AGT089,Zaki Cahyadi,AGC10,08213874790,zaki.cahyadi@propertipahlaw.co.id,Medan,8,7,4.17,2015-02-26
+AGT090,Teguh Hidayat,AGC18,08425228493,teguh.hidayat@jogjaasriprope.co.id,Yogyakarta,4,6,4.4,2023-01-14
+AGT091,Ika Suryadi,AGC10,08774759996,ika.suryadi@propertipahlaw.co.id,Jakarta Selatan,15,19,3.97,2017-02-19
+AGT092,Ika Putri,AGC20,08247077298,ika.putri@medanpropertyc.co.id,Medan,14,12,4.92,2020-09-10
+AGT093,Budi Mahendra,AGC09,08588777447,budi.mahendra@raywhitesuraba.co.id,Surabaya,16,6,4.34,2020-06-06
+AGT094,Iwan Hakim,AGC12,08960628276,iwan.hakim@ciputrasurabay.co.id,Surabaya,11,8,4.98,2017-09-05
+AGT095,Putra Santoso,AGC19,08715858241,putra.santoso@matarampropert.co.id,Yogyakarta,16,14,4.26,2022-06-11
+AGT096,Gita Pratama,AGC05,08377416376,gita.pratama@erapondokindah.co.id,Surabaya,4,16,3.92,2020-02-15
+AGT097,Rizki Marpaung,AGC01,08320043277,rizki.marpaung@eraindonesiaja.co.id,Jakarta Pusat,9,12,4.55,2019-06-17
+AGT098,Iwan Gunawan,AGC03,08752501540,iwan.gunawan@coldwellbanker.co.id,Jakarta Selatan,16,19,3.84,2015-10-08
+AGT099,Yanti Mahendra,AGC08,08422130508,yanti.mahendra@sinarmaslandma.co.id,Jakarta Selatan,4,5,4.33,2022-10-13
+AGT100,Rina Pratama,AGC10,08617532195,rina.pratama@propertipahlaw.co.id,Surabaya,12,15,3.97,2020-12-15
+AGT101,Pandu Kusuma,AGC14,08333497411,pandu.kusuma@bandunghijaupr.co.id,Bandung,13,9,4.4,2021-07-16
+AGT102,Tika Harahap,AGC05,08571682508,tika.harahap@erapondokindah.co.id,Jakarta Selatan,1,16,4.88,2022-08-07
+AGT103,Anton Setiawan,AGC18,08856381032,anton.setiawan@jogjaasriprope.co.id,Surabaya,14,10,4.35,2018-05-22
+AGT104,Putra Wibawa,AGC07,08241837210,putra.wibawa@griyamasjakart.co.id,Jakarta Timur,12,20,4.16,2022-11-04
+AGT105,Agus Pasaribu,AGC10,08511086890,agus.pasaribu@propertipahlaw.co.id,Surabaya,2,17,4.8,2018-03-18
+AGT106,Udin Siregar,AGC08,08495445405,udin.siregar@sinarmaslandma.co.id,Jakarta Selatan,9,6,4.55,2022-01-14
+AGT107,Anita Nasution,AGC02,08187789079,anita.nasution@raywhitekemang.co.id,Jakarta Selatan,5,4,4.89,2018-08-31
+AGT108,Reza Permana,AGC14,08382398083,reza.permana@bandunghijaupr.co.id,Bandung,12,18,4.4,2018-01-21
+AGT109,Wahyu Wibawa,AGC06,08555461591,wahyu.wibawa@propertijakart.co.id,Jakarta Barat,15,4,3.97,2017-07-13
+AGT110,Olive Simanjuntak,AGC13,08262958901,olive.simanjuntak@eradagobandung.co.id,Bandung,18,5,4.35,2022-07-18
+AGT111,Ratna Hutapea,AGC09,08624541967,ratna.hutapea@raywhitesuraba.co.id,Surabaya,16,2,4.54,2021-04-18
+AGT112,Vera Santoso,AGC11,08295282470,vera.santoso@surabayaproper.co.id,Surabaya,10,15,3.94,2015-07-05
+AGT113,Arif Cahyadi,AGC02,08223044889,arif.cahyadi@raywhitekemang.co.id,Jakarta Selatan,18,6,4.27,2019-02-28
+AGT114,Umi Mulyono,AGC18,08365684858,umi.mulyono@jogjaasriprope.co.id,Yogyakarta,16,15,4.93,2018-02-19
+AGT115,Gilang Simanjuntak,AGC02,08469509870,gilang.simanjuntak@raywhitekemang.co.id,Jakarta Selatan,8,13,3.92,2022-09-09
+AGT116,Mira Siregar,AGC12,08163437398,mira.siregar@ciputrasurabay.co.id,Surabaya,4,16,3.91,2017-05-18
+AGT117,Agus Sari,AGC20,08642691263,agus.sari@medanpropertyc.co.id,Yogyakarta,7,4,4.8,2021-03-20
+AGT118,Slamet Rahayu,AGC07,08454098516,slamet.rahayu@griyamasjakart.co.id,Jakarta Timur,20,2,4.13,2016-08-15
+AGT119,Mira Anggraini,AGC05,08324754064,mira.anggraini@erapondokindah.co.id,Jakarta Selatan,1,6,3.82,2023-11-10
+AGT120,Slamet Halim,AGC08,08133386929,slamet.halim@sinarmaslandma.co.id,Jakarta Selatan,5,15,4.43,2023-05-13
+AGT121,Dedi Nasution,AGC03,08678885632,dedi.nasution@coldwellbanker.co.id,Jakarta Selatan,15,18,4.07,2021-11-24
+AGT122,Candra Iskandar,AGC02,08571477426,candra.iskandar@raywhitekemang.co.id,Jakarta Selatan,1,3,5.0,2019-07-04
+AGT123,Fani Lestari,AGC14,08869533928,fani.lestari@bandunghijaupr.co.id,Bandung,3,12,4.53,2015-09-27
+AGT124,Mega Putra,AGC05,08953645651,mega.putra@erapondokindah.co.id,Jakarta Selatan,20,18,4.15,2020-09-01
+AGT125,Yusuf Lestari,AGC20,08297874085,yusuf.lestari@medanpropertyc.co.id,Medan,18,8,4.32,2017-07-24
+AGT126,Diah Harahap,AGC14,08765833185,diah.harahap@bandunghijaupr.co.id,Bandung,11,15,4.18,2017-11-10
+AGT127,Fitri Wibawa,AGC12,08222243983,fitri.wibawa@ciputrasurabay.co.id,Surabaya,3,15,3.92,2023-04-15
+AGT128,Dimas Hakim,AGC12,08188714010,dimas.hakim@ciputrasurabay.co.id,Yogyakarta,11,5,4.29,2022-06-18
+AGT129,Wati Mahendra,AGC14,08557197152,wati.mahendra@bandunghijaupr.co.id,Bandung,17,8,3.99,2020-05-29
+AGT130,Indah Siregar,AGC08,08959333209,indah.siregar@sinarmaslandma.co.id,Jakarta Selatan,9,20,4.07,2019-10-24
+AGT131,Wira Putra,AGC18,08913523729,wira.putra@jogjaasriprope.co.id,Yogyakarta,9,2,4.02,2022-11-18
+AGT132,Diah Siregar,AGC10,08134347841,diah.siregar@propertipahlaw.co.id,Surabaya,19,14,3.88,2023-04-24
+AGT133,Lisa Iskandar,AGC01,08460491958,lisa.iskandar@eraindonesiaja.co.id,Jakarta Pusat,11,7,4.24,2023-02-03
+AGT134,Pandu Sasongko,AGC11,08217061037,pandu.sasongko@surabayaproper.co.id,Surabaya,20,3,4.61,2018-01-19
+AGT135,Candra Lubis,AGC15,08891480362,candra.lubis@parahyanganrea.co.id,Bandung,9,8,4.71,2016-04-11
+AGT136,Yusuf Saputra,AGC12,08589609131,yusuf.saputra@ciputrasurabay.co.id,Surabaya,10,3,4.06,2021-09-20
+AGT137,Budi Rahayu,AGC02,08538351344,budi.rahayu@raywhitekemang.co.id,Jakarta Selatan,9,11,4.19,2015-02-01
+AGT138,Yusuf Kusuma,AGC16,08361030579,yusuf.kusuma@balivillarealt.co.id,Bali,8,18,4.47,2022-06-29
+AGT139,Eko Pasaribu,AGC12,08168548403,eko.pasaribu@ciputrasurabay.co.id,Surabaya,3,12,4.49,2021-06-06
+AGT140,Zainal Marpaung,AGC13,08525458308,zainal.marpaung@eradagobandung.co.id,Bandung,11,7,4.76,2021-12-06
+AGT141,Gilang Simanjuntak,AGC15,08268614462,gilang.simanjuntak@parahyanganrea.co.id,Bandung,8,15,4.51,2020-11-16
+AGT142,Rama Kurniawan,AGC03,08639738898,rama.kurniawan@coldwellbanker.co.id,Jakarta Selatan,6,4,4.41,2016-04-12
+AGT143,Ika Permana,AGC17,08657123808,ika.permana@raywhitebali.co.id,Bali,5,9,3.92,2017-11-14
+AGT144,Reza Sasongko,AGC07,08397980930,reza.sasongko@griyamasjakart.co.id,Jakarta Timur,16,16,4.71,2023-07-10
+AGT145,Tia Aditya,AGC19,08694183695,tia.aditya@matarampropert.co.id,Yogyakarta,15,4,4.36,2022-01-30
+AGT146,Mega Mulyono,AGC10,08157236885,mega.mulyono@propertipahlaw.co.id,Surabaya,10,16,4.34,2015-08-22
+AGT147,Surya Setiawan,AGC12,08292545028,surya.setiawan@ciputrasurabay.co.id,Surabaya,13,16,4.5,2023-11-18
+AGT148,Tia Aditya,AGC02,08453154591,tia.aditya@raywhitekemang.co.id,Jakarta Selatan,17,6,4.95,2020-01-20
+AGT149,Diah Hidayat,AGC04,08996721710,diah.hidayat@century21sudir.co.id,Jakarta Pusat,8,16,4.99,2020-11-16
+AGT150,Vera Hartono,AGC17,08660043345,vera.hartono@raywhitebali.co.id,Bandung,14,12,4.61,2015-08-03
