@@ -41,7 +41,6 @@ griyalaju-property-dataset-analysis
 ├── notebooks/               # Jupyter Notebook analisis
 ├── queries/                 # Query SQL
 ├── visualization/           # Hasil visualisasi
-├── images/                  # Screenshot grafik
 ├── requirements.txt
 └── README.md
 ```
@@ -54,7 +53,6 @@ griyalaju-property-dataset-analysis
 * Pandas
 * NumPy
 * Matplotlib
-* Seaborn
 * Jupyter Notebook
 * MySQL
 * SQL
