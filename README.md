@@ -1,6 +1,6 @@
 # 🏡 GriyaLaju Property Dataset Analysis
 
-Analisis data properti menggunakan **Python**, dan teknik **Exploratory Data Analysis (EDA)** untuk memperoleh insight mengenai tren pasar properti, performa agen, transaksi penjualan, serta karakteristik properti.
+Analisis data properti menggunakan **Python**, **SQL** dan teknik **Exploratory Data Analysis (EDA)** untuk memperoleh insight mengenai tren pasar properti, performa agen, transaksi penjualan, serta karakteristik properti.
 
 Repository ini dibuat sebagai portofolio Data Analyst yang berfokus pada proses **data cleaning**, **data exploration**, **SQL analysis**, dan **visualisasi data**.
 
@@ -89,6 +89,19 @@ Beberapa insight yang dapat diperoleh dari analisis ini antara lain:
 * Distribusi harga properti berdasarkan lokasi.
 
 ---
+
+### SQL Analysis
+
+Contoh analisis menggunakan SQL:
+
+* Total transaksi setiap agen
+* Total komisi agen
+* Kota dengan transaksi terbanyak
+* Properti dengan harga tertinggi
+* Harga rata-rata tiap kota
+* Harga rata-rata berdasarkan tipe properti
+* Agen dengan performa terbaik
+* Tren transaksi berdasarkan tahun
 
 ## 🚀 Getting Started
 
