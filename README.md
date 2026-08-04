@@ -1,6 +1,6 @@
 # 🏡 GriyaLaju Property Dataset Analysis
 
-Analisis data properti menggunakan **Python**, **MySQL**, dan teknik **Exploratory Data Analysis (EDA)** untuk memperoleh insight mengenai tren pasar properti, performa agen, transaksi penjualan, serta karakteristik properti.
+Analisis data properti menggunakan **Python**, dan teknik **Exploratory Data Analysis (EDA)** untuk memperoleh insight mengenai tren pasar properti, performa agen, transaksi penjualan, serta karakteristik properti.
 
 Repository ini dibuat sebagai portofolio Data Analyst yang berfokus pada proses **data cleaning**, **data exploration**, **SQL analysis**, dan **visualisasi data**.
 
@@ -39,7 +39,6 @@ griyalaju-property-dataset-analysis
 │
 ├── dataset/                 # Dataset yang digunakan
 ├── notebooks/               # Jupyter Notebook analisis
-├── queries/                 # Query SQL
 ├── visualization/           # Hasil visualisasi
 ├── requirements.txt
 └── README.md
@@ -54,8 +53,6 @@ griyalaju-property-dataset-analysis
 * NumPy
 * Matplotlib
 * Jupyter Notebook
-* MySQL
-* SQL
 
 ---
 
@@ -77,21 +74,7 @@ Beberapa analisis yang dilakukan pada project ini meliputi:
 * Distribusi lokasi
 * Analisis jumlah transaksi
 * Statistik deskriptif
-
-### SQL Analysis
-
-Contoh analisis menggunakan SQL:
-
-* Total transaksi setiap agen
-* Total komisi agen
-* Kota dengan transaksi terbanyak
-* Properti dengan harga tertinggi
-* Harga rata-rata tiap kota
-* Harga rata-rata berdasarkan tipe properti
-* Agen dengan performa terbaik
-* Tren transaksi berdasarkan tahun
-
----
+* Analisis total transaksi setiap agen
 
 ## 📈 Example Insights
 
@@ -99,6 +82,7 @@ Beberapa insight yang dapat diperoleh dari analisis ini antara lain:
 
 * Agen dengan jumlah transaksi terbanyak.
 * Kota dengan aktivitas penjualan properti tertinggi.
+* Provinsi dengan aktivitas penjualan properti tertinggi.
 * Tipe properti yang paling sering terjual.
 * Harga rata-rata properti pada setiap kota.
 * Tren pertumbuhan transaksi dari waktu ke waktu.
@@ -142,9 +126,7 @@ Contoh dependency yang digunakan:
 pandas
 numpy
 matplotlib
-seaborn
 jupyter
-mysql-connector-python
 ```
 
 ---
@@ -170,7 +152,6 @@ Project ini menunjukkan kemampuan dalam:
 * Data Cleaning
 * Data Wrangling
 * Exploratory Data Analysis
-* SQL Query
 * Data Visualization
 * Problem Solving
 * Statistical Analysis
@@ -197,7 +178,6 @@ Berfokus pada:
 
 * Data Analytics
 * Business Intelligence
-* SQL
 * Python
 * Data Visualization
 * Machine Learning
