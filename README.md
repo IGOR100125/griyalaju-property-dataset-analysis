@@ -40,8 +40,8 @@ griyalaju-property-dataset-analysis
 ├── dataset/                 # Dataset yang digunakan
 ├── notebooks/               # Jupyter Notebook analisis
 ├── visualization/           # Hasil visualisasi
-├── requirements.txt
 |── queries/                 # Query SQL
+├── requirements.txt
 └── README.md
 ```
 
